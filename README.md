@@ -75,4 +75,7 @@ $ sudo add-apt-repository -y ppa:apptainer/ppa
 $ sudo apt update
 $ sudo apt install -y apptainer
 $ apptainer build dpdb9.sif dpdb.def
+
+/usr/bin/time -v apptainer exec --writable-tmpfs --bind \tmp:\tmp  dpdb9.sif bash /dpdb/script.sh \tmp instances/t3_001.phen-3.pert-50.mts.lp_pmc.lp
+
 ````
