@@ -1,0 +1,819 @@
+0.5::ppn_v_2_oxoglutaric_space_acid_simple_molecule.
+0.5::npn_v_2_oxoglutaric_space_acid_simple_molecule.
+0.5::ppn_v_4_hydroxybutyrate_simple_molecule.
+0.5::npn_v_4_hydroxybutyrate_simple_molecule.
+0.5::ppn_v_ATP_simple_molecule.
+0.5::npn_v_ATP_simple_molecule.
+0.5::ppn_v_CO2_simple_molecule.
+0.5::npn_v_CO2_simple_molecule.
+0.5::ppn_v_FADH2_simple_molecule.
+0.5::npn_v_FADH2_simple_molecule.
+0.5::ppn_v_GLUD1.
+0.5::npn_v_GLUD1.
+0.5::ppn_v_GMP_simple_molecule.
+0.5::npn_v_GMP_simple_molecule.
+0.5::ppn_v_GTP_simple_molecule.
+0.5::npn_v_GTP_simple_molecule.
+0.5::ppn_v_H2O_simple_molecule.
+0.5::npn_v_H2O_simple_molecule.
+0.5::ppn_v_NADH_simple_molecule.
+0.5::npn_v_NADH_simple_molecule.
+0.5::ppn_v_NADPH_simple_molecule.
+0.5::npn_v_NADPH_simple_molecule.
+0.5::ppn_v_NAD____simple_molecule.
+0.5::npn_v_NAD____simple_molecule.
+0.5::ppn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+0.5::npn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+0.5::ppn_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+0.5::npn_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+0.5::ppn_v__S__malate_2___simple_molecule.
+0.5::npn_v__S__malate_2___simple_molecule.
+0.5::ppn_v_acetate_simple_molecule.
+0.5::npn_v_acetate_simple_molecule.
+0.5::ppn_v_acetyl_CoA_simple_molecule.
+0.5::npn_v_acetyl_CoA_simple_molecule.
+0.5::ppn_v_ammonium_simple_molecule.
+0.5::npn_v_ammonium_simple_molecule.
+0.5::ppn_v_citrate_3___simple_molecule.
+0.5::npn_v_citrate_3___simple_molecule.
+0.5::ppn_v_coenzyme_space_A_simple_molecule.
+0.5::npn_v_coenzyme_space_A_simple_molecule.
+0.5::ppn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+0.5::npn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+0.5::ppn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+0.5::npn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+0.5::ppn_v_isocitrate_space_dehydrogenase_complex.
+0.5::npn_v_isocitrate_space_dehydrogenase_complex.
+0.5::ppn_v_isocitric_space_acid_simple_molecule.
+0.5::npn_v_isocitric_space_acid_simple_molecule.
+0.5::ppn_v_oxaloacetate_2___simple_molecule.
+0.5::npn_v_oxaloacetate_2___simple_molecule.
+0.5::ppn_v_phosphate_3___simple_molecule.
+0.5::npn_v_phosphate_3___simple_molecule.
+0.5::ppn_v_sa11902_H__ion_mitochondrial_space_matrix.
+0.5::npn_v_sa11902_H__ion_mitochondrial_space_matrix.
+0.5::ppn_v_sa11966_H__ion_mitochondrial_space_matrix.
+0.5::npn_v_sa11966_H__ion_mitochondrial_space_matrix.
+0.5::ppn_v_succinic_space_acid_simple_molecule.
+0.5::npn_v_succinic_space_acid_simple_molecule.
+0.5::ppn_v_succinic_space_semialdehyde_simple_molecule.
+0.5::npn_v_succinic_space_semialdehyde_simple_molecule.
+0.5::ppn_v_succinyl_CoA_simple_molecule.
+0.5::npn_v_succinyl_CoA_simple_molecule.
+0.5::ppp_v_2_oxoglutaric_space_acid_simple_molecule.
+0.5::npp_v_2_oxoglutaric_space_acid_simple_molecule.
+0.5::ppp_v_4_hydroxybutyrate_simple_molecule.
+0.5::npp_v_4_hydroxybutyrate_simple_molecule.
+0.5::ppp_v_ATP_simple_molecule.
+0.5::npp_v_ATP_simple_molecule.
+0.5::ppp_v_CO2_simple_molecule.
+0.5::npp_v_CO2_simple_molecule.
+0.5::ppp_v_FADH2_simple_molecule.
+0.5::npp_v_FADH2_simple_molecule.
+0.5::ppp_v_GLUD1.
+0.5::npp_v_GLUD1.
+0.5::ppp_v_GMP_simple_molecule.
+0.5::npp_v_GMP_simple_molecule.
+0.5::ppp_v_GTP_simple_molecule.
+0.5::npp_v_GTP_simple_molecule.
+0.5::ppp_v_H2O_simple_molecule.
+0.5::npp_v_H2O_simple_molecule.
+0.5::ppp_v_NADH_simple_molecule.
+0.5::npp_v_NADH_simple_molecule.
+0.5::ppp_v_NADPH_simple_molecule.
+0.5::npp_v_NADPH_simple_molecule.
+0.5::ppp_v_NAD____simple_molecule.
+0.5::npp_v_NAD____simple_molecule.
+0.5::ppp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+0.5::npp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+0.5::ppp_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+0.5::npp_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+0.5::ppp_v__S__malate_2___simple_molecule.
+0.5::npp_v__S__malate_2___simple_molecule.
+0.5::ppp_v_acetate_simple_molecule.
+0.5::npp_v_acetate_simple_molecule.
+0.5::ppp_v_acetyl_CoA_simple_molecule.
+0.5::npp_v_acetyl_CoA_simple_molecule.
+0.5::ppp_v_ammonium_simple_molecule.
+0.5::npp_v_ammonium_simple_molecule.
+0.5::ppp_v_citrate_3___simple_molecule.
+0.5::npp_v_citrate_3___simple_molecule.
+0.5::ppp_v_coenzyme_space_A_simple_molecule.
+0.5::npp_v_coenzyme_space_A_simple_molecule.
+0.5::ppp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+0.5::npp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+0.5::ppp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+0.5::npp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+0.5::ppp_v_isocitrate_space_dehydrogenase_complex.
+0.5::npp_v_isocitrate_space_dehydrogenase_complex.
+0.5::ppp_v_isocitric_space_acid_simple_molecule.
+0.5::npp_v_isocitric_space_acid_simple_molecule.
+0.5::ppp_v_oxaloacetate_2___simple_molecule.
+0.5::npp_v_oxaloacetate_2___simple_molecule.
+0.5::ppp_v_phosphate_3___simple_molecule.
+0.5::npp_v_phosphate_3___simple_molecule.
+0.5::ppp_v_sa11902_H__ion_mitochondrial_space_matrix.
+0.5::npp_v_sa11902_H__ion_mitochondrial_space_matrix.
+0.5::ppp_v_sa11966_H__ion_mitochondrial_space_matrix.
+0.5::npp_v_sa11966_H__ion_mitochondrial_space_matrix.
+0.5::ppp_v_succinic_space_acid_simple_molecule.
+0.5::npp_v_succinic_space_acid_simple_molecule.
+0.5::ppp_v_succinic_space_semialdehyde_simple_molecule.
+0.5::npp_v_succinic_space_semialdehyde_simple_molecule.
+0.5::ppp_v_succinyl_CoA_simple_molecule.
+0.5::npp_v_succinyl_CoA_simple_molecule.
+pv_2_oxoglutaric_space_acid_simple_molecule, nv_2_oxoglutaric_space_acid_simple_molecule.
+aux_0_0 :- npp_v_2_oxoglutaric_space_acid_simple_molecule.
+aux_0_1 :- nv_D2HGDH.
+aux_0_1 :- nv_Zn2__ion.
+aux_0_1 :- nv_Co2__ion.
+aux_0_1 :- nv_Mn2__ion.
+aux_0_0 :- nv_FAD_simple_molecule, nv__S__2_hydroxyglutaric_space_acid_simple_molecule, aux_0_1.
+aux_0_0 :- nv_H2O_simple_molecule, nv_NAD____simple_molecule, nv_L_glutamate_2___simple_molecule, nv_GLUD1.
+aux_0_0 :- nv_FAD_simple_molecule, nv__S__2_hydroxyglutaric_space_acid_simple_molecule, nv_L2HGDH.
+aux_0_0 :- nv_NADP____simple_molecule, nv_isocitric_space_acid_simple_molecule, nv_isocitrate_space_dehydrogenase_complex.
+aux_0_2 :- nv_ADP_simple_molecule.
+aux_0_2 :- nv_Ca2__ion.
+aux_0_2 :- nv_isocitrate_space_dehydrogenase_space_3_complex.
+aux_0_0 :- nv_NAD____simple_molecule, nv_isocitric_space_acid_simple_molecule, aux_0_2.
+aux_0_0 :- nv__S__2_hydroxyglutaric_space_acid_simple_molecule, nv_succinic_space_semialdehyde_simple_molecule, nv_ADHFE1.
+nv_2_oxoglutaric_space_acid_simple_molecule :- ppn_v_2_oxoglutaric_space_acid_simple_molecule, aux_0_0.
+pv_2_oxoglutaric_space_acid_simple_molecule :- npn_v_2_oxoglutaric_space_acid_simple_molecule.
+aux_0_3 :- pv_FAD_simple_molecule.
+aux_0_3 :- pv__S__2_hydroxyglutaric_space_acid_simple_molecule.
+aux_0_3 :- pv_D2HGDH, pv_Zn2__ion, pv_Co2__ion, pv_Mn2__ion.
+aux_0_4 :- pv_H2O_simple_molecule.
+aux_0_4 :- pv_NAD____simple_molecule.
+aux_0_4 :- pv_L_glutamate_2___simple_molecule.
+aux_0_4 :- pv_GLUD1.
+aux_0_5 :- pv_FAD_simple_molecule.
+aux_0_5 :- pv__S__2_hydroxyglutaric_space_acid_simple_molecule.
+aux_0_5 :- pv_L2HGDH.
+aux_0_6 :- pv_NADP____simple_molecule.
+aux_0_6 :- pv_isocitric_space_acid_simple_molecule.
+aux_0_6 :- pv_isocitrate_space_dehydrogenase_complex.
+aux_0_7 :- pv_NAD____simple_molecule.
+aux_0_7 :- pv_isocitric_space_acid_simple_molecule.
+aux_0_7 :- pv_ADP_simple_molecule, pv_Ca2__ion, pv_isocitrate_space_dehydrogenase_space_3_complex.
+aux_0_8 :- pv__S__2_hydroxyglutaric_space_acid_simple_molecule.
+aux_0_8 :- pv_succinic_space_semialdehyde_simple_molecule.
+aux_0_8 :- pv_ADHFE1.
+pv_2_oxoglutaric_space_acid_simple_molecule :- ppp_v_2_oxoglutaric_space_acid_simple_molecule, aux_0_3, aux_0_4, aux_0_5, aux_0_6, aux_0_7, aux_0_8.
+pv_4_hydroxybutyrate_simple_molecule, nv_4_hydroxybutyrate_simple_molecule.
+aux_0_9 :- npp_v_4_hydroxybutyrate_simple_molecule.
+aux_0_9 :- nv__S__2_hydroxyglutaric_space_acid_simple_molecule, nv_succinic_space_semialdehyde_simple_molecule, nv_ADHFE1.
+nv_4_hydroxybutyrate_simple_molecule :- ppn_v_4_hydroxybutyrate_simple_molecule, aux_0_9.
+pv_4_hydroxybutyrate_simple_molecule :- npn_v_4_hydroxybutyrate_simple_molecule.
+pv_4_hydroxybutyrate_simple_molecule :- ppp_v_4_hydroxybutyrate_simple_molecule, aux_0_8.
+pv_ACO2, nv_ACO2.
+nv_ACO2 :- nv_ACO2.
+pv_ACO2 :- pv_ACO2.
+pv_ACSS1, nv_ACSS1.
+nv_ACSS1 :- nv_ACSS1.
+pv_ACSS1 :- pv_ACSS1.
+pv_ADHFE1, nv_ADHFE1.
+nv_ADHFE1 :- nv_ADHFE1.
+pv_ADHFE1 :- pv_ADHFE1.
+pv_ADP_simple_molecule, nv_ADP_simple_molecule.
+nv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, nv_CO2_simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+aux_0_10 :- nv_NADH_simple_molecule.
+aux_0_10 :- nv_acetyl_CoA_simple_molecule.
+aux_0_10 :- nv_PDK_space_isoforms_complex.
+nv_ADP_simple_molecule :- nv_ATP_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, nv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, aux_0_10.
+pv_ADP_simple_molecule :- pv_PC, pv_ATP_simple_molecule.
+pv_ADP_simple_molecule :- pv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, pv_acetyl_CoA_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, pv_PDK_space_isoforms_complex.
+pv_ADP_simple_molecule :- pv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, pv_acetyl_CoA_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, nv_PDK_space_isoforms_complex, pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- pv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, pv_acetyl_CoA_simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- pv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, nv_acetyl_CoA_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- pv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, nv_acetyl_CoA_simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- pv_PC, nv_ATP_simple_molecule, nv_NADH_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- pv_PC, nv_ATP_simple_molecule, nv_NADH_simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- nv_PC, pv_ATP_simple_molecule.
+pv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, pv_CO2_simple_molecule, pv_acetyl_CoA_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, pv_PDK_space_isoforms_complex.
+pv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, pv_CO2_simple_molecule, pv_acetyl_CoA_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, nv_PDK_space_isoforms_complex, pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, pv_CO2_simple_molecule, pv_acetyl_CoA_simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, pv_CO2_simple_molecule, nv_acetyl_CoA_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, pv_CO2_simple_molecule, nv_acetyl_CoA_simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, nv_CO2_simple_molecule, pv_acetyl_CoA_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, pv_PDK_space_isoforms_complex.
+pv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, nv_CO2_simple_molecule, pv_acetyl_CoA_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, nv_PDK_space_isoforms_complex, pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, pv_NADH_simple_molecule, nv_CO2_simple_molecule, nv_acetyl_CoA_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, nv_NADH_simple_molecule, pv_CO2_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, nv_NADH_simple_molecule, pv_CO2_simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+pv_ADP_simple_molecule :- nv_PC, nv_ATP_simple_molecule, nv_NADH_simple_molecule, nv_CO2_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+pv_ALDH2, nv_ALDH2.
+nv_ALDH2 :- nv_ALDH2.
+pv_ALDH2 :- pv_ALDH2.
+pv_ATP_simple_molecule, nv_ATP_simple_molecule.
+aux_0_11 :- npp_v_ATP_simple_molecule.
+aux_0_11 :- nv_ADP_simple_molecule, nv_succinyl_CoA_simple_molecule, nv_phosphate_3___simple_molecule, nv_csa1899_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+nv_ATP_simple_molecule :- ppn_v_ATP_simple_molecule, aux_0_11.
+pv_ATP_simple_molecule :- npn_v_ATP_simple_molecule.
+aux_0_12 :- pv_ADP_simple_molecule.
+aux_0_12 :- pv_succinyl_CoA_simple_molecule.
+aux_0_12 :- pv_phosphate_3___simple_molecule.
+aux_0_12 :- pv_csa1899_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+pv_ATP_simple_molecule :- ppp_v_ATP_simple_molecule, aux_0_12.
+pv_CO2_simple_molecule, nv_CO2_simple_molecule.
+aux_0_13 :- npp_v_CO2_simple_molecule.
+aux_0_13 :- nv_NAD____simple_molecule, nv_isocitric_space_acid_simple_molecule, aux_0_2.
+aux_0_13 :- nv_NAD____simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix, nv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, nv_coenzyme_space_A_simple_molecule.
+aux_0_13 :- nv_NADP____simple_molecule, nv_isocitric_space_acid_simple_molecule, nv_isocitrate_space_dehydrogenase_complex.
+aux_0_14 :- nv_Ca2__ion.
+aux_0_14 :- nv_alpha_ketoglutarate_space_dehydrogenase_complex.
+aux_0_13 :- nv_NAD____simple_molecule, nv_2_oxoglutaric_space_acid_simple_molecule, nv_coenzyme_space_A_simple_molecule, aux_0_14.
+nv_CO2_simple_molecule :- ppn_v_CO2_simple_molecule, aux_0_13.
+pv_CO2_simple_molecule :- npn_v_CO2_simple_molecule.
+aux_0_15 :- pv_NAD____simple_molecule.
+aux_0_15 :- pv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+aux_0_15 :- pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+aux_0_15 :- pv_coenzyme_space_A_simple_molecule.
+aux_0_16 :- pv_NAD____simple_molecule.
+aux_0_16 :- pv_2_oxoglutaric_space_acid_simple_molecule.
+aux_0_16 :- pv_coenzyme_space_A_simple_molecule.
+aux_0_16 :- pv_Ca2__ion, pv_alpha_ketoglutarate_space_dehydrogenase_complex.
+pv_CO2_simple_molecule :- ppp_v_CO2_simple_molecule, aux_0_7, aux_0_15, aux_0_6, aux_0_16.
+pv_CS, nv_CS.
+nv_CS :- nv_CS.
+pv_CS :- pv_CS.
+pv_Ca2__ion, nv_Ca2__ion.
+nv_Ca2__ion :- nv_Ca2__ion.
+pv_Ca2__ion :- pv_Ca2__ion.
+pv_Co2__ion, nv_Co2__ion.
+nv_Co2__ion :- nv_Co2__ion.
+pv_Co2__ion :- pv_Co2__ion.
+pv_D2HGDH, nv_D2HGDH.
+nv_D2HGDH :- nv_D2HGDH.
+pv_D2HGDH :- pv_D2HGDH.
+pv_FADH2_simple_molecule, nv_FADH2_simple_molecule.
+aux_0_17 :- npp_v_FADH2_simple_molecule.
+aux_0_17 :- nv_FAD_simple_molecule, nv__S__2_hydroxyglutaric_space_acid_simple_molecule, aux_0_1.
+aux_0_17 :- nv_FAD_simple_molecule, nv__S__2_hydroxyglutaric_space_acid_simple_molecule, nv_L2HGDH.
+nv_FADH2_simple_molecule :- ppn_v_FADH2_simple_molecule, aux_0_17.
+pv_FADH2_simple_molecule :- npn_v_FADH2_simple_molecule.
+pv_FADH2_simple_molecule :- ppp_v_FADH2_simple_molecule, aux_0_3, aux_0_5.
+pv_FAD_simple_molecule, nv_FAD_simple_molecule.
+nv_FAD_simple_molecule :- nv_FAD_simple_molecule.
+pv_FAD_simple_molecule :- pv_FAD_simple_molecule.
+pv_GDP_simple_molecule, nv_GDP_simple_molecule.
+nv_GDP_simple_molecule :- nv_GDP_simple_molecule.
+pv_GDP_simple_molecule :- pv_GDP_simple_molecule.
+pv_GLUD1, nv_GLUD1.
+aux_0_18 :- nv_SIRT3.
+aux_0_18 :- npp_v_GLUD1.
+nv_GLUD1 :- ppn_v_GLUD1, aux_0_18.
+pv_GLUD1 :- npn_v_GLUD1.
+pv_GLUD1 :- pv_SIRT3, ppp_v_GLUD1.
+pv_GMP_simple_molecule, nv_GMP_simple_molecule.
+aux_0_19 :- npp_v_GMP_simple_molecule.
+aux_0_19 :- nv_H2O_simple_molecule, nv_GP4G_simple_molecule, nv_NUDT2.
+nv_GMP_simple_molecule :- ppn_v_GMP_simple_molecule, aux_0_19.
+pv_GMP_simple_molecule :- npn_v_GMP_simple_molecule.
+aux_0_20 :- pv_H2O_simple_molecule.
+aux_0_20 :- pv_GP4G_simple_molecule.
+aux_0_20 :- pv_NUDT2.
+pv_GMP_simple_molecule :- ppp_v_GMP_simple_molecule, aux_0_20.
+pv_GP4G_simple_molecule, nv_GP4G_simple_molecule.
+nv_GP4G_simple_molecule :- nv_GP4G_simple_molecule.
+pv_GP4G_simple_molecule :- pv_GP4G_simple_molecule.
+pv_GTP_simple_molecule, nv_GTP_simple_molecule.
+aux_0_21 :- npp_v_GTP_simple_molecule.
+aux_0_21 :- nv_H2O_simple_molecule, nv_GP4G_simple_molecule, nv_NUDT2.
+aux_0_21 :- nv_GDP_simple_molecule, nv_succinyl_CoA_simple_molecule, nv_phosphate_3___simple_molecule, nv_csa1916_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+nv_GTP_simple_molecule :- ppn_v_GTP_simple_molecule, aux_0_21.
+pv_GTP_simple_molecule :- npn_v_GTP_simple_molecule.
+aux_0_22 :- pv_GDP_simple_molecule.
+aux_0_22 :- pv_succinyl_CoA_simple_molecule.
+aux_0_22 :- pv_phosphate_3___simple_molecule.
+aux_0_22 :- pv_csa1916_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+pv_GTP_simple_molecule :- ppp_v_GTP_simple_molecule, aux_0_20, aux_0_22.
+pv_H2O_simple_molecule, nv_H2O_simple_molecule.
+aux_0_23 :- npp_v_H2O_simple_molecule.
+aux_0_23 :- nv__S__malate_2___simple_molecule, nv_fumarate_space_hydratase_complex.
+nv_H2O_simple_molecule :- ppn_v_H2O_simple_molecule, aux_0_23.
+pv_H2O_simple_molecule :- npn_v_H2O_simple_molecule.
+aux_0_24 :- pv__S__malate_2___simple_molecule.
+aux_0_24 :- pv_fumarate_space_hydratase_complex.
+pv_H2O_simple_molecule :- ppp_v_H2O_simple_molecule, aux_0_24.
+pv_H__ion_neuron, nv_H__ion_neuron.
+nv_H__ion_neuron :- nv_H__ion_neuron.
+pv_H__ion_neuron :- pv_H__ion_neuron.
+pv_L2HGDH, nv_L2HGDH.
+nv_L2HGDH :- nv_L2HGDH.
+pv_L2HGDH :- pv_L2HGDH.
+pv_L_glutamate_2___simple_molecule, nv_L_glutamate_2___simple_molecule.
+nv_L_glutamate_2___simple_molecule :- nv_L_glutamate_2___simple_molecule.
+pv_L_glutamate_2___simple_molecule :- pv_L_glutamate_2___simple_molecule.
+pv_Mg2__ion, nv_Mg2__ion.
+nv_Mg2__ion :- nv_Mg2__ion.
+pv_Mg2__ion :- pv_Mg2__ion.
+pv_Mn2__ion, nv_Mn2__ion.
+nv_Mn2__ion :- nv_Mn2__ion.
+pv_Mn2__ion :- pv_Mn2__ion.
+pv_NADH_simple_molecule, nv_NADH_simple_molecule.
+aux_0_25 :- npp_v_NADH_simple_molecule.
+aux_0_25 :- nv_NAD____simple_molecule, nv_isocitric_space_acid_simple_molecule, aux_0_2.
+aux_0_25 :- nv_NAD____simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix, nv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, nv_coenzyme_space_A_simple_molecule.
+aux_0_25 :- nv_NAD____simple_molecule, nv_2_oxoglutaric_space_acid_simple_molecule, nv_coenzyme_space_A_simple_molecule, aux_0_14.
+aux_0_25 :- nv_NAD____simple_molecule, nv__S__malate_2___simple_molecule, nv_malate_space_dehydrogenase_space_2_complex.
+aux_0_25 :- nv_H2O_simple_molecule, nv_NAD____simple_molecule, nv_L_glutamate_2___simple_molecule, nv_GLUD1.
+nv_NADH_simple_molecule :- ppn_v_NADH_simple_molecule, aux_0_25.
+pv_NADH_simple_molecule :- npn_v_NADH_simple_molecule.
+aux_0_26 :- pv_NAD____simple_molecule.
+aux_0_26 :- pv__S__malate_2___simple_molecule.
+aux_0_26 :- pv_malate_space_dehydrogenase_space_2_complex.
+pv_NADH_simple_molecule :- ppp_v_NADH_simple_molecule, aux_0_7, aux_0_15, aux_0_16, aux_0_26, aux_0_4.
+pv_NADPH_simple_molecule, nv_NADPH_simple_molecule.
+aux_0_27 :- npp_v_NADPH_simple_molecule.
+aux_0_27 :- nv_NADP____simple_molecule, nv_isocitric_space_acid_simple_molecule, nv_isocitrate_space_dehydrogenase_complex.
+nv_NADPH_simple_molecule :- ppn_v_NADPH_simple_molecule, aux_0_27.
+pv_NADPH_simple_molecule :- npn_v_NADPH_simple_molecule.
+pv_NADPH_simple_molecule :- ppp_v_NADPH_simple_molecule, aux_0_6.
+pv_NADP____simple_molecule, nv_NADP____simple_molecule.
+nv_NADP____simple_molecule :- nv_NADP____simple_molecule.
+pv_NADP____simple_molecule :- pv_NADP____simple_molecule.
+pv_NAD____simple_molecule, nv_NAD____simple_molecule.
+aux_0_28 :- npp_v_NAD____simple_molecule.
+aux_0_28 :- nv_NADH_simple_molecule, nv_malate_space_dehydrogenase_space_2_complex, nv_oxaloacetate_2___simple_molecule, nv_sa11966_H__ion_mitochondrial_space_matrix.
+nv_NAD____simple_molecule :- ppn_v_NAD____simple_molecule, aux_0_28.
+pv_NAD____simple_molecule :- npn_v_NAD____simple_molecule.
+aux_0_29 :- pv_NADH_simple_molecule.
+aux_0_29 :- pv_malate_space_dehydrogenase_space_2_complex.
+aux_0_29 :- pv_oxaloacetate_2___simple_molecule.
+aux_0_29 :- pv_sa11966_H__ion_mitochondrial_space_matrix.
+pv_NAD____simple_molecule :- ppp_v_NAD____simple_molecule, aux_0_29.
+pv_NUDT2, nv_NUDT2.
+nv_NUDT2 :- nv_NUDT2.
+pv_NUDT2 :- pv_NUDT2.
+pv_PC, nv_PC.
+nv_PC :- nv_PC.
+pv_PC :- pv_PC.
+pv_PDK_space_isoforms_complex, nv_PDK_space_isoforms_complex.
+nv_PDK_space_isoforms_complex :- nv_PDK_space_isoforms_complex.
+pv_PDK_space_isoforms_complex :- pv_PDK_space_isoforms_complex.
+pv_PDP1_PDPR_complex, nv_PDP1_PDPR_complex.
+nv_PDP1_PDPR_complex :- nv_PDP1_PDPR_complex.
+pv_PDP1_PDPR_complex :- pv_PDP1_PDPR_complex.
+pv_PDP2_PDPR_complex, nv_PDP2_PDPR_complex.
+nv_PDP2_PDPR_complex :- nv_PDP2_PDPR_complex.
+pv_PDP2_PDPR_complex :- pv_PDP2_PDPR_complex.
+pv_SIRT3, nv_SIRT3.
+nv_SIRT3 :- nv_SIRT3.
+pv_SIRT3 :- pv_SIRT3.
+pv_Zn2__ion, nv_Zn2__ion.
+nv_Zn2__ion :- nv_Zn2__ion.
+pv_Zn2__ion :- pv_Zn2__ion.
+pv__5_hydroxyindol_3_yl_acetaldehyde_simple_molecule, nv__5_hydroxyindol_3_yl_acetaldehyde_simple_molecule.
+nv__5_hydroxyindol_3_yl_acetaldehyde_simple_molecule :- nv__5_hydroxyindol_3_yl_acetaldehyde_simple_molecule.
+pv__5_hydroxyindol_3_yl_acetaldehyde_simple_molecule :- pv__5_hydroxyindol_3_yl_acetaldehyde_simple_molecule.
+pv__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule, nv__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+aux_0_30 :- npp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+aux_0_30 :- nv_ALDH2, nv__5_hydroxyindol_3_yl_acetaldehyde_simple_molecule.
+nv__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule :- ppn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule, aux_0_30.
+pv__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule :- npn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+aux_0_31 :- pv_ALDH2.
+aux_0_31 :- pv__5_hydroxyindol_3_yl_acetaldehyde_simple_molecule.
+pv__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule :- ppp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule, aux_0_31.
+pv__S__2_hydroxyglutaric_space_acid_simple_molecule, nv__S__2_hydroxyglutaric_space_acid_simple_molecule.
+aux_0_32 :- npp_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+aux_0_32 :- nv_2_oxoglutaric_space_acid_simple_molecule, nv_ADHFE1, nv_4_hydroxybutyrate_simple_molecule.
+nv__S__2_hydroxyglutaric_space_acid_simple_molecule :- ppn_v__S__2_hydroxyglutaric_space_acid_simple_molecule, aux_0_32.
+pv__S__2_hydroxyglutaric_space_acid_simple_molecule :- npn_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+aux_0_33 :- pv_2_oxoglutaric_space_acid_simple_molecule.
+aux_0_33 :- pv_ADHFE1.
+aux_0_33 :- pv_4_hydroxybutyrate_simple_molecule.
+pv__S__2_hydroxyglutaric_space_acid_simple_molecule :- ppp_v__S__2_hydroxyglutaric_space_acid_simple_molecule, aux_0_33.
+pv__S__malate_2___simple_molecule, nv__S__malate_2___simple_molecule.
+aux_0_34 :- npp_v__S__malate_2___simple_molecule.
+aux_0_34 :- nv_H2O_simple_molecule, nv_fumarate_space_hydratase_complex, nv_fumaric_space_acid_simple_molecule.
+aux_0_34 :- nv_NADH_simple_molecule, nv_malate_space_dehydrogenase_space_2_complex, nv_oxaloacetate_2___simple_molecule, nv_sa11966_H__ion_mitochondrial_space_matrix.
+nv__S__malate_2___simple_molecule :- ppn_v__S__malate_2___simple_molecule, aux_0_34.
+pv__S__malate_2___simple_molecule :- npn_v__S__malate_2___simple_molecule.
+aux_0_35 :- pv_H2O_simple_molecule.
+aux_0_35 :- pv_fumarate_space_hydratase_complex.
+aux_0_35 :- pv_fumaric_space_acid_simple_molecule.
+pv__S__malate_2___simple_molecule :- ppp_v__S__malate_2___simple_molecule, aux_0_35, aux_0_29.
+pv_acetaldehyde_simple_molecule, nv_acetaldehyde_simple_molecule.
+nv_acetaldehyde_simple_molecule :- nv_acetaldehyde_simple_molecule.
+pv_acetaldehyde_simple_molecule :- pv_acetaldehyde_simple_molecule.
+pv_acetate_simple_molecule, nv_acetate_simple_molecule.
+aux_0_36 :- npp_v_acetate_simple_molecule.
+aux_0_36 :- nv_ALDH2, nv_acetaldehyde_simple_molecule.
+nv_acetate_simple_molecule :- ppn_v_acetate_simple_molecule, aux_0_36.
+pv_acetate_simple_molecule :- npn_v_acetate_simple_molecule.
+aux_0_37 :- pv_ALDH2.
+aux_0_37 :- pv_acetaldehyde_simple_molecule.
+pv_acetate_simple_molecule :- ppp_v_acetate_simple_molecule, aux_0_37.
+pv_acetyl_CoA_simple_molecule, nv_acetyl_CoA_simple_molecule.
+aux_0_38 :- npp_v_acetyl_CoA_simple_molecule.
+aux_0_38 :- nv_NAD____simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix, nv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, nv_coenzyme_space_A_simple_molecule.
+aux_0_38 :- nv_ACSS1, nv_acetate_simple_molecule.
+nv_acetyl_CoA_simple_molecule :- ppn_v_acetyl_CoA_simple_molecule, aux_0_38.
+pv_acetyl_CoA_simple_molecule :- npn_v_acetyl_CoA_simple_molecule.
+aux_0_39 :- pv_ACSS1.
+aux_0_39 :- pv_acetate_simple_molecule.
+pv_acetyl_CoA_simple_molecule :- ppp_v_acetyl_CoA_simple_molecule, aux_0_15, aux_0_39.
+pv_alpha_ketoglutarate_space_dehydrogenase_complex, nv_alpha_ketoglutarate_space_dehydrogenase_complex.
+nv_alpha_ketoglutarate_space_dehydrogenase_complex :- nv_alpha_ketoglutarate_space_dehydrogenase_complex.
+pv_alpha_ketoglutarate_space_dehydrogenase_complex :- pv_alpha_ketoglutarate_space_dehydrogenase_complex.
+pv_ammonium_simple_molecule, nv_ammonium_simple_molecule.
+aux_0_40 :- npp_v_ammonium_simple_molecule.
+aux_0_40 :- nv_H2O_simple_molecule, nv_NAD____simple_molecule, nv_L_glutamate_2___simple_molecule, nv_GLUD1.
+nv_ammonium_simple_molecule :- ppn_v_ammonium_simple_molecule, aux_0_40.
+pv_ammonium_simple_molecule :- npn_v_ammonium_simple_molecule.
+pv_ammonium_simple_molecule :- ppp_v_ammonium_simple_molecule, aux_0_4.
+pv_citrate_3___simple_molecule, nv_citrate_3___simple_molecule.
+aux_0_41 :- npp_v_citrate_3___simple_molecule.
+aux_0_41 :- nv_H2O_simple_molecule, nv_acetyl_CoA_simple_molecule, nv_CS, nv_oxaloacetate_2___simple_molecule.
+nv_citrate_3___simple_molecule :- ppn_v_citrate_3___simple_molecule, aux_0_41.
+pv_citrate_3___simple_molecule :- npn_v_citrate_3___simple_molecule.
+aux_0_42 :- pv_H2O_simple_molecule.
+aux_0_42 :- pv_acetyl_CoA_simple_molecule.
+aux_0_42 :- pv_CS.
+aux_0_42 :- pv_oxaloacetate_2___simple_molecule.
+pv_citrate_3___simple_molecule :- ppp_v_citrate_3___simple_molecule, aux_0_42.
+pv_coenzyme_space_A_simple_molecule, nv_coenzyme_space_A_simple_molecule.
+aux_0_43 :- npp_v_coenzyme_space_A_simple_molecule.
+aux_0_43 :- nv_H2O_simple_molecule, nv_acetyl_CoA_simple_molecule, nv_CS, nv_oxaloacetate_2___simple_molecule.
+aux_0_43 :- nv_GDP_simple_molecule, nv_succinyl_CoA_simple_molecule, nv_phosphate_3___simple_molecule, nv_csa1916_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+aux_0_43 :- nv_ADP_simple_molecule, nv_succinyl_CoA_simple_molecule, nv_phosphate_3___simple_molecule, nv_csa1899_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+nv_coenzyme_space_A_simple_molecule :- ppn_v_coenzyme_space_A_simple_molecule, aux_0_43.
+pv_coenzyme_space_A_simple_molecule :- npn_v_coenzyme_space_A_simple_molecule.
+pv_coenzyme_space_A_simple_molecule :- ppp_v_coenzyme_space_A_simple_molecule, aux_0_42, aux_0_22, aux_0_12.
+pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, nv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+aux_0_44 :- npp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+aux_0_45 :- nv_Mg2__ion.
+aux_0_45 :- nv_Ca2__ion.
+aux_0_45 :- nv_PDP1_PDPR_complex.
+aux_0_44 :- nv_H2O_simple_molecule, nv_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, aux_0_45.
+aux_0_46 :- nv_Mg2__ion.
+aux_0_46 :- nv_PDP2_PDPR_complex.
+aux_0_44 :- nv_H2O_simple_molecule, nv_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, aux_0_46.
+nv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- ppn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, aux_0_44.
+pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- npn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+aux_0_47 :- pv_H2O_simple_molecule.
+aux_0_47 :- pv_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+aux_0_47 :- pv_Mg2__ion, pv_Ca2__ion, pv_PDP1_PDPR_complex.
+aux_0_48 :- pv_H2O_simple_molecule.
+aux_0_48 :- pv_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+aux_0_48 :- pv_Mg2__ion, pv_PDP2_PDPR_complex.
+pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- ppp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, aux_0_47, aux_0_48.
+pv_csa1899_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix, nv_csa1899_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+nv_csa1899_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix :- nv_csa1899_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+pv_csa1899_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix :- pv_csa1899_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+pv_csa1916_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix, nv_csa1916_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+nv_csa1916_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix :- nv_csa1916_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+pv_csa1916_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix :- pv_csa1916_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+pv_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, nv_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+aux_0_49 :- npp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+aux_0_49 :- nv_ATP_simple_molecule, pv_pyruvate_simple_molecule_mitochondrial_space_matrix, nv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, aux_0_10.
+nv_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- ppn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, aux_0_49.
+pv_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- npn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+aux_0_50 :- pv_ATP_simple_molecule.
+aux_0_50 :- nv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+aux_0_50 :- pv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+aux_0_50 :- pv_NADH_simple_molecule, pv_acetyl_CoA_simple_molecule, pv_PDK_space_isoforms_complex.
+pv_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- ppp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, aux_0_50.
+pv_fumarate_space_hydratase_complex, nv_fumarate_space_hydratase_complex.
+nv_fumarate_space_hydratase_complex :- nv_fumarate_space_hydratase_complex.
+pv_fumarate_space_hydratase_complex :- pv_fumarate_space_hydratase_complex.
+pv_fumaric_space_acid_simple_molecule, nv_fumaric_space_acid_simple_molecule.
+nv_fumaric_space_acid_simple_molecule :- nv__S__malate_2___simple_molecule, nv_fumarate_space_hydratase_complex.
+pv_fumaric_space_acid_simple_molecule :- pv__S__malate_2___simple_molecule.
+pv_fumaric_space_acid_simple_molecule :- pv_fumarate_space_hydratase_complex.
+pv_isocitrate_space_dehydrogenase_complex, nv_isocitrate_space_dehydrogenase_complex.
+aux_0_51 :- nv_SIRT3.
+aux_0_51 :- npp_v_isocitrate_space_dehydrogenase_complex.
+nv_isocitrate_space_dehydrogenase_complex :- ppn_v_isocitrate_space_dehydrogenase_complex, aux_0_51.
+pv_isocitrate_space_dehydrogenase_complex :- npn_v_isocitrate_space_dehydrogenase_complex.
+pv_isocitrate_space_dehydrogenase_complex :- pv_SIRT3, ppp_v_isocitrate_space_dehydrogenase_complex.
+pv_isocitrate_space_dehydrogenase_space_3_complex, nv_isocitrate_space_dehydrogenase_space_3_complex.
+nv_isocitrate_space_dehydrogenase_space_3_complex :- nv_isocitrate_space_dehydrogenase_space_3_complex.
+pv_isocitrate_space_dehydrogenase_space_3_complex :- pv_isocitrate_space_dehydrogenase_space_3_complex.
+pv_isocitric_space_acid_simple_molecule, nv_isocitric_space_acid_simple_molecule.
+aux_0_52 :- npp_v_isocitric_space_acid_simple_molecule.
+aux_0_52 :- nv_ACO2, nv_citrate_3___simple_molecule.
+nv_isocitric_space_acid_simple_molecule :- ppn_v_isocitric_space_acid_simple_molecule, aux_0_52.
+pv_isocitric_space_acid_simple_molecule :- npn_v_isocitric_space_acid_simple_molecule.
+aux_0_53 :- pv_ACO2.
+aux_0_53 :- pv_citrate_3___simple_molecule.
+pv_isocitric_space_acid_simple_molecule :- ppp_v_isocitric_space_acid_simple_molecule, aux_0_53.
+pv_malate_space_dehydrogenase_space_2_complex, nv_malate_space_dehydrogenase_space_2_complex.
+nv_malate_space_dehydrogenase_space_2_complex :- nv_malate_space_dehydrogenase_space_2_complex.
+pv_malate_space_dehydrogenase_space_2_complex :- pv_malate_space_dehydrogenase_space_2_complex.
+pv_mitochondrial_space_pyruvate_space_carrier_complex, nv_mitochondrial_space_pyruvate_space_carrier_complex.
+nv_mitochondrial_space_pyruvate_space_carrier_complex :- nv_mitochondrial_space_pyruvate_space_carrier_complex.
+pv_mitochondrial_space_pyruvate_space_carrier_complex :- pv_mitochondrial_space_pyruvate_space_carrier_complex.
+pv_oxaloacetate_2___simple_molecule, nv_oxaloacetate_2___simple_molecule.
+aux_0_54 :- npp_v_oxaloacetate_2___simple_molecule.
+aux_0_54 :- nv_PC, nv_ATP_simple_molecule, nv_CO2_simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+aux_0_54 :- nv_NAD____simple_molecule, nv__S__malate_2___simple_molecule, nv_malate_space_dehydrogenase_space_2_complex.
+nv_oxaloacetate_2___simple_molecule :- ppn_v_oxaloacetate_2___simple_molecule, aux_0_54.
+pv_oxaloacetate_2___simple_molecule :- npn_v_oxaloacetate_2___simple_molecule.
+aux_0_55 :- pv_PC.
+aux_0_55 :- pv_ATP_simple_molecule.
+aux_0_55 :- pv_CO2_simple_molecule.
+aux_0_55 :- pv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+pv_oxaloacetate_2___simple_molecule :- ppp_v_oxaloacetate_2___simple_molecule, aux_0_55, aux_0_26.
+pv_phosphate_3___simple_molecule, nv_phosphate_3___simple_molecule.
+aux_0_56 :- npp_v_phosphate_3___simple_molecule.
+aux_0_56 :- nv_PC, nv_ATP_simple_molecule, nv_CO2_simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+aux_0_56 :- nv_H2O_simple_molecule, nv_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, aux_0_45.
+aux_0_56 :- nv_H2O_simple_molecule, nv_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, aux_0_46.
+nv_phosphate_3___simple_molecule :- ppn_v_phosphate_3___simple_molecule, aux_0_56.
+pv_phosphate_3___simple_molecule :- npn_v_phosphate_3___simple_molecule.
+pv_phosphate_3___simple_molecule :- ppp_v_phosphate_3___simple_molecule, aux_0_55, aux_0_47, aux_0_48.
+pv_pyruvate_simple_molecule_mitochondrial_space_matrix, nv_pyruvate_simple_molecule_mitochondrial_space_matrix.
+nv_pyruvate_simple_molecule_mitochondrial_space_matrix :- nv_H__ion_neuron, nv_mitochondrial_space_pyruvate_space_carrier_complex, nv_pyruvate_simple_molecule_neuron.
+pv_pyruvate_simple_molecule_mitochondrial_space_matrix :- pv_H__ion_neuron.
+pv_pyruvate_simple_molecule_mitochondrial_space_matrix :- pv_mitochondrial_space_pyruvate_space_carrier_complex.
+pv_pyruvate_simple_molecule_mitochondrial_space_matrix :- pv_pyruvate_simple_molecule_neuron.
+pv_pyruvate_simple_molecule_neuron, nv_pyruvate_simple_molecule_neuron.
+nv_pyruvate_simple_molecule_neuron :- nv_pyruvate_simple_molecule_neuron.
+pv_pyruvate_simple_molecule_neuron :- pv_pyruvate_simple_molecule_neuron.
+pv_sa11902_H__ion_mitochondrial_space_matrix, nv_sa11902_H__ion_mitochondrial_space_matrix.
+aux_0_57 :- npp_v_sa11902_H__ion_mitochondrial_space_matrix.
+aux_0_57 :- nv_H__ion_neuron, nv_mitochondrial_space_pyruvate_space_carrier_complex, nv_pyruvate_simple_molecule_neuron.
+nv_sa11902_H__ion_mitochondrial_space_matrix :- ppn_v_sa11902_H__ion_mitochondrial_space_matrix, aux_0_57.
+pv_sa11902_H__ion_mitochondrial_space_matrix :- npn_v_sa11902_H__ion_mitochondrial_space_matrix.
+aux_0_58 :- pv_H__ion_neuron.
+aux_0_58 :- pv_mitochondrial_space_pyruvate_space_carrier_complex.
+aux_0_58 :- pv_pyruvate_simple_molecule_neuron.
+pv_sa11902_H__ion_mitochondrial_space_matrix :- ppp_v_sa11902_H__ion_mitochondrial_space_matrix, aux_0_58.
+pv_sa11966_H__ion_mitochondrial_space_matrix, nv_sa11966_H__ion_mitochondrial_space_matrix.
+aux_0_59 :- npp_v_sa11966_H__ion_mitochondrial_space_matrix.
+aux_0_59 :- nv_NAD____simple_molecule, nv_2_oxoglutaric_space_acid_simple_molecule, nv_coenzyme_space_A_simple_molecule, aux_0_14.
+aux_0_59 :- nv_NAD____simple_molecule, nv_isocitric_space_acid_simple_molecule, aux_0_2.
+aux_0_59 :- nv_NAD____simple_molecule, nv__S__malate_2___simple_molecule, nv_malate_space_dehydrogenase_space_2_complex.
+aux_0_59 :- nv_H2O_simple_molecule, nv_NAD____simple_molecule, nv_L_glutamate_2___simple_molecule, nv_GLUD1.
+aux_0_59 :- nv_NADP____simple_molecule, nv_isocitric_space_acid_simple_molecule, nv_isocitrate_space_dehydrogenase_complex.
+aux_0_59 :- nv_NAD____simple_molecule, nv_pyruvate_simple_molecule_mitochondrial_space_matrix, nv_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, nv_coenzyme_space_A_simple_molecule.
+nv_sa11966_H__ion_mitochondrial_space_matrix :- ppn_v_sa11966_H__ion_mitochondrial_space_matrix, aux_0_59.
+pv_sa11966_H__ion_mitochondrial_space_matrix :- npn_v_sa11966_H__ion_mitochondrial_space_matrix.
+pv_sa11966_H__ion_mitochondrial_space_matrix :- ppp_v_sa11966_H__ion_mitochondrial_space_matrix, aux_0_16, aux_0_7, aux_0_26, aux_0_4, aux_0_6, aux_0_15.
+pv_succinic_space_acid_simple_molecule, nv_succinic_space_acid_simple_molecule.
+aux_0_60 :- npp_v_succinic_space_acid_simple_molecule.
+aux_0_60 :- nv_GDP_simple_molecule, nv_succinyl_CoA_simple_molecule, nv_phosphate_3___simple_molecule, nv_csa1916_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+aux_0_60 :- nv_ADP_simple_molecule, nv_succinyl_CoA_simple_molecule, nv_phosphate_3___simple_molecule, nv_csa1899_Succinyl_CoA_space_ligase_complex_mitochondrial_space_matrix.
+nv_succinic_space_acid_simple_molecule :- ppn_v_succinic_space_acid_simple_molecule, aux_0_60.
+pv_succinic_space_acid_simple_molecule :- npn_v_succinic_space_acid_simple_molecule.
+pv_succinic_space_acid_simple_molecule :- ppp_v_succinic_space_acid_simple_molecule, aux_0_22, aux_0_12.
+pv_succinic_space_semialdehyde_simple_molecule, nv_succinic_space_semialdehyde_simple_molecule.
+aux_0_61 :- npp_v_succinic_space_semialdehyde_simple_molecule.
+aux_0_61 :- nv_2_oxoglutaric_space_acid_simple_molecule, nv_ADHFE1, nv_4_hydroxybutyrate_simple_molecule.
+nv_succinic_space_semialdehyde_simple_molecule :- ppn_v_succinic_space_semialdehyde_simple_molecule, aux_0_61.
+pv_succinic_space_semialdehyde_simple_molecule :- npn_v_succinic_space_semialdehyde_simple_molecule.
+pv_succinic_space_semialdehyde_simple_molecule :- ppp_v_succinic_space_semialdehyde_simple_molecule, aux_0_33.
+pv_succinyl_CoA_simple_molecule, nv_succinyl_CoA_simple_molecule.
+aux_0_62 :- npp_v_succinyl_CoA_simple_molecule.
+aux_0_62 :- nv_NAD____simple_molecule, nv_2_oxoglutaric_space_acid_simple_molecule, nv_coenzyme_space_A_simple_molecule, aux_0_14.
+nv_succinyl_CoA_simple_molecule :- ppn_v_succinyl_CoA_simple_molecule, aux_0_62.
+pv_succinyl_CoA_simple_molecule :- npn_v_succinyl_CoA_simple_molecule.
+pv_succinyl_CoA_simple_molecule :- ppp_v_succinyl_CoA_simple_molecule, aux_0_16.
+ppn_v_2_oxoglutaric_space_acid_simple_molecule, npn_v_2_oxoglutaric_space_acid_simple_molecule.
+npn_v_2_oxoglutaric_space_acid_simple_molecule :- npn_v_2_oxoglutaric_space_acid_simple_molecule.
+ppn_v_2_oxoglutaric_space_acid_simple_molecule :- ppn_v_2_oxoglutaric_space_acid_simple_molecule.
+ppn_v_4_hydroxybutyrate_simple_molecule, npn_v_4_hydroxybutyrate_simple_molecule.
+npn_v_4_hydroxybutyrate_simple_molecule :- npn_v_4_hydroxybutyrate_simple_molecule.
+ppn_v_4_hydroxybutyrate_simple_molecule :- ppn_v_4_hydroxybutyrate_simple_molecule.
+ppn_v_ATP_simple_molecule, npn_v_ATP_simple_molecule.
+npn_v_ATP_simple_molecule :- npn_v_ATP_simple_molecule.
+ppn_v_ATP_simple_molecule :- ppn_v_ATP_simple_molecule.
+ppn_v_CO2_simple_molecule, npn_v_CO2_simple_molecule.
+npn_v_CO2_simple_molecule :- npn_v_CO2_simple_molecule.
+ppn_v_CO2_simple_molecule :- ppn_v_CO2_simple_molecule.
+ppn_v_FADH2_simple_molecule, npn_v_FADH2_simple_molecule.
+npn_v_FADH2_simple_molecule :- npn_v_FADH2_simple_molecule.
+ppn_v_FADH2_simple_molecule :- ppn_v_FADH2_simple_molecule.
+ppn_v_GLUD1, npn_v_GLUD1.
+npn_v_GLUD1 :- npn_v_GLUD1.
+ppn_v_GLUD1 :- ppn_v_GLUD1.
+ppn_v_GMP_simple_molecule, npn_v_GMP_simple_molecule.
+npn_v_GMP_simple_molecule :- npn_v_GMP_simple_molecule.
+ppn_v_GMP_simple_molecule :- ppn_v_GMP_simple_molecule.
+ppn_v_GTP_simple_molecule, npn_v_GTP_simple_molecule.
+npn_v_GTP_simple_molecule :- npn_v_GTP_simple_molecule.
+ppn_v_GTP_simple_molecule :- ppn_v_GTP_simple_molecule.
+ppn_v_H2O_simple_molecule, npn_v_H2O_simple_molecule.
+npn_v_H2O_simple_molecule :- npn_v_H2O_simple_molecule.
+ppn_v_H2O_simple_molecule :- ppn_v_H2O_simple_molecule.
+ppn_v_NADH_simple_molecule, npn_v_NADH_simple_molecule.
+npn_v_NADH_simple_molecule :- npn_v_NADH_simple_molecule.
+ppn_v_NADH_simple_molecule :- ppn_v_NADH_simple_molecule.
+ppn_v_NADPH_simple_molecule, npn_v_NADPH_simple_molecule.
+npn_v_NADPH_simple_molecule :- npn_v_NADPH_simple_molecule.
+ppn_v_NADPH_simple_molecule :- ppn_v_NADPH_simple_molecule.
+ppn_v_NAD____simple_molecule, npn_v_NAD____simple_molecule.
+npn_v_NAD____simple_molecule :- npn_v_NAD____simple_molecule.
+ppn_v_NAD____simple_molecule :- ppn_v_NAD____simple_molecule.
+ppn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule, npn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+npn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule :- npn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+ppn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule :- ppn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+ppn_v__S__2_hydroxyglutaric_space_acid_simple_molecule, npn_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+npn_v__S__2_hydroxyglutaric_space_acid_simple_molecule :- npn_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+ppn_v__S__2_hydroxyglutaric_space_acid_simple_molecule :- ppn_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+ppn_v__S__malate_2___simple_molecule, npn_v__S__malate_2___simple_molecule.
+npn_v__S__malate_2___simple_molecule :- npn_v__S__malate_2___simple_molecule.
+ppn_v__S__malate_2___simple_molecule :- ppn_v__S__malate_2___simple_molecule.
+ppn_v_acetate_simple_molecule, npn_v_acetate_simple_molecule.
+npn_v_acetate_simple_molecule :- npn_v_acetate_simple_molecule.
+ppn_v_acetate_simple_molecule :- ppn_v_acetate_simple_molecule.
+ppn_v_acetyl_CoA_simple_molecule, npn_v_acetyl_CoA_simple_molecule.
+npn_v_acetyl_CoA_simple_molecule :- npn_v_acetyl_CoA_simple_molecule.
+ppn_v_acetyl_CoA_simple_molecule :- ppn_v_acetyl_CoA_simple_molecule.
+ppn_v_ammonium_simple_molecule, npn_v_ammonium_simple_molecule.
+npn_v_ammonium_simple_molecule :- npn_v_ammonium_simple_molecule.
+ppn_v_ammonium_simple_molecule :- ppn_v_ammonium_simple_molecule.
+ppn_v_citrate_3___simple_molecule, npn_v_citrate_3___simple_molecule.
+npn_v_citrate_3___simple_molecule :- npn_v_citrate_3___simple_molecule.
+ppn_v_citrate_3___simple_molecule :- ppn_v_citrate_3___simple_molecule.
+ppn_v_coenzyme_space_A_simple_molecule, npn_v_coenzyme_space_A_simple_molecule.
+npn_v_coenzyme_space_A_simple_molecule :- npn_v_coenzyme_space_A_simple_molecule.
+ppn_v_coenzyme_space_A_simple_molecule :- ppn_v_coenzyme_space_A_simple_molecule.
+ppn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, npn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+npn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- npn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- ppn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, npn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+npn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- npn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- ppn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppn_v_isocitrate_space_dehydrogenase_complex, npn_v_isocitrate_space_dehydrogenase_complex.
+npn_v_isocitrate_space_dehydrogenase_complex :- npn_v_isocitrate_space_dehydrogenase_complex.
+ppn_v_isocitrate_space_dehydrogenase_complex :- ppn_v_isocitrate_space_dehydrogenase_complex.
+ppn_v_isocitric_space_acid_simple_molecule, npn_v_isocitric_space_acid_simple_molecule.
+npn_v_isocitric_space_acid_simple_molecule :- npn_v_isocitric_space_acid_simple_molecule.
+ppn_v_isocitric_space_acid_simple_molecule :- ppn_v_isocitric_space_acid_simple_molecule.
+ppn_v_oxaloacetate_2___simple_molecule, npn_v_oxaloacetate_2___simple_molecule.
+npn_v_oxaloacetate_2___simple_molecule :- npn_v_oxaloacetate_2___simple_molecule.
+ppn_v_oxaloacetate_2___simple_molecule :- ppn_v_oxaloacetate_2___simple_molecule.
+ppn_v_phosphate_3___simple_molecule, npn_v_phosphate_3___simple_molecule.
+npn_v_phosphate_3___simple_molecule :- npn_v_phosphate_3___simple_molecule.
+ppn_v_phosphate_3___simple_molecule :- ppn_v_phosphate_3___simple_molecule.
+ppn_v_sa11902_H__ion_mitochondrial_space_matrix, npn_v_sa11902_H__ion_mitochondrial_space_matrix.
+npn_v_sa11902_H__ion_mitochondrial_space_matrix :- npn_v_sa11902_H__ion_mitochondrial_space_matrix.
+ppn_v_sa11902_H__ion_mitochondrial_space_matrix :- ppn_v_sa11902_H__ion_mitochondrial_space_matrix.
+ppn_v_sa11966_H__ion_mitochondrial_space_matrix, npn_v_sa11966_H__ion_mitochondrial_space_matrix.
+npn_v_sa11966_H__ion_mitochondrial_space_matrix :- npn_v_sa11966_H__ion_mitochondrial_space_matrix.
+ppn_v_sa11966_H__ion_mitochondrial_space_matrix :- ppn_v_sa11966_H__ion_mitochondrial_space_matrix.
+ppn_v_succinic_space_acid_simple_molecule, npn_v_succinic_space_acid_simple_molecule.
+npn_v_succinic_space_acid_simple_molecule :- npn_v_succinic_space_acid_simple_molecule.
+ppn_v_succinic_space_acid_simple_molecule :- ppn_v_succinic_space_acid_simple_molecule.
+ppn_v_succinic_space_semialdehyde_simple_molecule, npn_v_succinic_space_semialdehyde_simple_molecule.
+npn_v_succinic_space_semialdehyde_simple_molecule :- npn_v_succinic_space_semialdehyde_simple_molecule.
+ppn_v_succinic_space_semialdehyde_simple_molecule :- ppn_v_succinic_space_semialdehyde_simple_molecule.
+ppn_v_succinyl_CoA_simple_molecule, npn_v_succinyl_CoA_simple_molecule.
+npn_v_succinyl_CoA_simple_molecule :- npn_v_succinyl_CoA_simple_molecule.
+ppn_v_succinyl_CoA_simple_molecule :- ppn_v_succinyl_CoA_simple_molecule.
+ppp_v_2_oxoglutaric_space_acid_simple_molecule, npp_v_2_oxoglutaric_space_acid_simple_molecule.
+npp_v_2_oxoglutaric_space_acid_simple_molecule :- ppn_v_2_oxoglutaric_space_acid_simple_molecule, npp_v_2_oxoglutaric_space_acid_simple_molecule.
+ppp_v_2_oxoglutaric_space_acid_simple_molecule :- npn_v_2_oxoglutaric_space_acid_simple_molecule.
+ppp_v_2_oxoglutaric_space_acid_simple_molecule :- ppp_v_2_oxoglutaric_space_acid_simple_molecule.
+ppp_v_4_hydroxybutyrate_simple_molecule, npp_v_4_hydroxybutyrate_simple_molecule.
+npp_v_4_hydroxybutyrate_simple_molecule :- ppn_v_4_hydroxybutyrate_simple_molecule, npp_v_4_hydroxybutyrate_simple_molecule.
+ppp_v_4_hydroxybutyrate_simple_molecule :- npn_v_4_hydroxybutyrate_simple_molecule.
+ppp_v_4_hydroxybutyrate_simple_molecule :- ppp_v_4_hydroxybutyrate_simple_molecule.
+ppp_v_ATP_simple_molecule, npp_v_ATP_simple_molecule.
+npp_v_ATP_simple_molecule :- ppn_v_ATP_simple_molecule, npp_v_ATP_simple_molecule.
+ppp_v_ATP_simple_molecule :- npn_v_ATP_simple_molecule.
+ppp_v_ATP_simple_molecule :- ppp_v_ATP_simple_molecule.
+ppp_v_CO2_simple_molecule, npp_v_CO2_simple_molecule.
+npp_v_CO2_simple_molecule :- ppn_v_CO2_simple_molecule, npp_v_CO2_simple_molecule.
+ppp_v_CO2_simple_molecule :- npn_v_CO2_simple_molecule.
+ppp_v_CO2_simple_molecule :- ppp_v_CO2_simple_molecule.
+ppp_v_FADH2_simple_molecule, npp_v_FADH2_simple_molecule.
+npp_v_FADH2_simple_molecule :- ppn_v_FADH2_simple_molecule, npp_v_FADH2_simple_molecule.
+ppp_v_FADH2_simple_molecule :- npn_v_FADH2_simple_molecule.
+ppp_v_FADH2_simple_molecule :- ppp_v_FADH2_simple_molecule.
+ppp_v_GLUD1, npp_v_GLUD1.
+npp_v_GLUD1 :- ppn_v_GLUD1, npp_v_GLUD1.
+ppp_v_GLUD1 :- npn_v_GLUD1.
+ppp_v_GLUD1 :- ppp_v_GLUD1.
+ppp_v_GMP_simple_molecule, npp_v_GMP_simple_molecule.
+npp_v_GMP_simple_molecule :- ppn_v_GMP_simple_molecule, npp_v_GMP_simple_molecule.
+ppp_v_GMP_simple_molecule :- npn_v_GMP_simple_molecule.
+ppp_v_GMP_simple_molecule :- ppp_v_GMP_simple_molecule.
+ppp_v_GTP_simple_molecule, npp_v_GTP_simple_molecule.
+npp_v_GTP_simple_molecule :- ppn_v_GTP_simple_molecule, npp_v_GTP_simple_molecule.
+ppp_v_GTP_simple_molecule :- npn_v_GTP_simple_molecule.
+ppp_v_GTP_simple_molecule :- ppp_v_GTP_simple_molecule.
+ppp_v_H2O_simple_molecule, npp_v_H2O_simple_molecule.
+npp_v_H2O_simple_molecule :- ppn_v_H2O_simple_molecule, npp_v_H2O_simple_molecule.
+ppp_v_H2O_simple_molecule :- npn_v_H2O_simple_molecule.
+ppp_v_H2O_simple_molecule :- ppp_v_H2O_simple_molecule.
+ppp_v_NADH_simple_molecule, npp_v_NADH_simple_molecule.
+npp_v_NADH_simple_molecule :- ppn_v_NADH_simple_molecule, npp_v_NADH_simple_molecule.
+ppp_v_NADH_simple_molecule :- npn_v_NADH_simple_molecule.
+ppp_v_NADH_simple_molecule :- ppp_v_NADH_simple_molecule.
+ppp_v_NADPH_simple_molecule, npp_v_NADPH_simple_molecule.
+npp_v_NADPH_simple_molecule :- ppn_v_NADPH_simple_molecule, npp_v_NADPH_simple_molecule.
+ppp_v_NADPH_simple_molecule :- npn_v_NADPH_simple_molecule.
+ppp_v_NADPH_simple_molecule :- ppp_v_NADPH_simple_molecule.
+ppp_v_NAD____simple_molecule, npp_v_NAD____simple_molecule.
+npp_v_NAD____simple_molecule :- ppn_v_NAD____simple_molecule, npp_v_NAD____simple_molecule.
+ppp_v_NAD____simple_molecule :- npn_v_NAD____simple_molecule.
+ppp_v_NAD____simple_molecule :- ppp_v_NAD____simple_molecule.
+ppp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule, npp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+npp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule :- ppn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule, npp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+ppp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule :- npn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+ppp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule :- ppp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+ppp_v__S__2_hydroxyglutaric_space_acid_simple_molecule, npp_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+npp_v__S__2_hydroxyglutaric_space_acid_simple_molecule :- ppn_v__S__2_hydroxyglutaric_space_acid_simple_molecule, npp_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+ppp_v__S__2_hydroxyglutaric_space_acid_simple_molecule :- npn_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+ppp_v__S__2_hydroxyglutaric_space_acid_simple_molecule :- ppp_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+ppp_v__S__malate_2___simple_molecule, npp_v__S__malate_2___simple_molecule.
+npp_v__S__malate_2___simple_molecule :- ppn_v__S__malate_2___simple_molecule, npp_v__S__malate_2___simple_molecule.
+ppp_v__S__malate_2___simple_molecule :- npn_v__S__malate_2___simple_molecule.
+ppp_v__S__malate_2___simple_molecule :- ppp_v__S__malate_2___simple_molecule.
+ppp_v_acetate_simple_molecule, npp_v_acetate_simple_molecule.
+npp_v_acetate_simple_molecule :- ppn_v_acetate_simple_molecule, npp_v_acetate_simple_molecule.
+ppp_v_acetate_simple_molecule :- npn_v_acetate_simple_molecule.
+ppp_v_acetate_simple_molecule :- ppp_v_acetate_simple_molecule.
+ppp_v_acetyl_CoA_simple_molecule, npp_v_acetyl_CoA_simple_molecule.
+npp_v_acetyl_CoA_simple_molecule :- ppn_v_acetyl_CoA_simple_molecule, npp_v_acetyl_CoA_simple_molecule.
+ppp_v_acetyl_CoA_simple_molecule :- npn_v_acetyl_CoA_simple_molecule.
+ppp_v_acetyl_CoA_simple_molecule :- ppp_v_acetyl_CoA_simple_molecule.
+ppp_v_ammonium_simple_molecule, npp_v_ammonium_simple_molecule.
+npp_v_ammonium_simple_molecule :- ppn_v_ammonium_simple_molecule, npp_v_ammonium_simple_molecule.
+ppp_v_ammonium_simple_molecule :- npn_v_ammonium_simple_molecule.
+ppp_v_ammonium_simple_molecule :- ppp_v_ammonium_simple_molecule.
+ppp_v_citrate_3___simple_molecule, npp_v_citrate_3___simple_molecule.
+npp_v_citrate_3___simple_molecule :- ppn_v_citrate_3___simple_molecule, npp_v_citrate_3___simple_molecule.
+ppp_v_citrate_3___simple_molecule :- npn_v_citrate_3___simple_molecule.
+ppp_v_citrate_3___simple_molecule :- ppp_v_citrate_3___simple_molecule.
+ppp_v_coenzyme_space_A_simple_molecule, npp_v_coenzyme_space_A_simple_molecule.
+npp_v_coenzyme_space_A_simple_molecule :- ppn_v_coenzyme_space_A_simple_molecule, npp_v_coenzyme_space_A_simple_molecule.
+ppp_v_coenzyme_space_A_simple_molecule :- npn_v_coenzyme_space_A_simple_molecule.
+ppp_v_coenzyme_space_A_simple_molecule :- ppp_v_coenzyme_space_A_simple_molecule.
+ppp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, npp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+npp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- ppn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, npp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- npn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- ppp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, npp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+npp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- ppn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix, npp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- npn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- ppp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppp_v_isocitrate_space_dehydrogenase_complex, npp_v_isocitrate_space_dehydrogenase_complex.
+npp_v_isocitrate_space_dehydrogenase_complex :- ppn_v_isocitrate_space_dehydrogenase_complex, npp_v_isocitrate_space_dehydrogenase_complex.
+ppp_v_isocitrate_space_dehydrogenase_complex :- npn_v_isocitrate_space_dehydrogenase_complex.
+ppp_v_isocitrate_space_dehydrogenase_complex :- ppp_v_isocitrate_space_dehydrogenase_complex.
+ppp_v_isocitric_space_acid_simple_molecule, npp_v_isocitric_space_acid_simple_molecule.
+npp_v_isocitric_space_acid_simple_molecule :- ppn_v_isocitric_space_acid_simple_molecule, npp_v_isocitric_space_acid_simple_molecule.
+ppp_v_isocitric_space_acid_simple_molecule :- npn_v_isocitric_space_acid_simple_molecule.
+ppp_v_isocitric_space_acid_simple_molecule :- ppp_v_isocitric_space_acid_simple_molecule.
+ppp_v_oxaloacetate_2___simple_molecule, npp_v_oxaloacetate_2___simple_molecule.
+npp_v_oxaloacetate_2___simple_molecule :- ppn_v_oxaloacetate_2___simple_molecule, npp_v_oxaloacetate_2___simple_molecule.
+ppp_v_oxaloacetate_2___simple_molecule :- npn_v_oxaloacetate_2___simple_molecule.
+ppp_v_oxaloacetate_2___simple_molecule :- ppp_v_oxaloacetate_2___simple_molecule.
+ppp_v_phosphate_3___simple_molecule, npp_v_phosphate_3___simple_molecule.
+npp_v_phosphate_3___simple_molecule :- ppn_v_phosphate_3___simple_molecule, npp_v_phosphate_3___simple_molecule.
+ppp_v_phosphate_3___simple_molecule :- npn_v_phosphate_3___simple_molecule.
+ppp_v_phosphate_3___simple_molecule :- ppp_v_phosphate_3___simple_molecule.
+ppp_v_sa11902_H__ion_mitochondrial_space_matrix, npp_v_sa11902_H__ion_mitochondrial_space_matrix.
+npp_v_sa11902_H__ion_mitochondrial_space_matrix :- ppn_v_sa11902_H__ion_mitochondrial_space_matrix, npp_v_sa11902_H__ion_mitochondrial_space_matrix.
+ppp_v_sa11902_H__ion_mitochondrial_space_matrix :- npn_v_sa11902_H__ion_mitochondrial_space_matrix.
+ppp_v_sa11902_H__ion_mitochondrial_space_matrix :- ppp_v_sa11902_H__ion_mitochondrial_space_matrix.
+ppp_v_sa11966_H__ion_mitochondrial_space_matrix, npp_v_sa11966_H__ion_mitochondrial_space_matrix.
+npp_v_sa11966_H__ion_mitochondrial_space_matrix :- ppn_v_sa11966_H__ion_mitochondrial_space_matrix, npp_v_sa11966_H__ion_mitochondrial_space_matrix.
+ppp_v_sa11966_H__ion_mitochondrial_space_matrix :- npn_v_sa11966_H__ion_mitochondrial_space_matrix.
+ppp_v_sa11966_H__ion_mitochondrial_space_matrix :- ppp_v_sa11966_H__ion_mitochondrial_space_matrix.
+ppp_v_succinic_space_acid_simple_molecule, npp_v_succinic_space_acid_simple_molecule.
+npp_v_succinic_space_acid_simple_molecule :- ppn_v_succinic_space_acid_simple_molecule, npp_v_succinic_space_acid_simple_molecule.
+ppp_v_succinic_space_acid_simple_molecule :- npn_v_succinic_space_acid_simple_molecule.
+ppp_v_succinic_space_acid_simple_molecule :- ppp_v_succinic_space_acid_simple_molecule.
+ppp_v_succinic_space_semialdehyde_simple_molecule, npp_v_succinic_space_semialdehyde_simple_molecule.
+npp_v_succinic_space_semialdehyde_simple_molecule :- ppn_v_succinic_space_semialdehyde_simple_molecule, npp_v_succinic_space_semialdehyde_simple_molecule.
+ppp_v_succinic_space_semialdehyde_simple_molecule :- npn_v_succinic_space_semialdehyde_simple_molecule.
+ppp_v_succinic_space_semialdehyde_simple_molecule :- ppp_v_succinic_space_semialdehyde_simple_molecule.
+ppp_v_succinyl_CoA_simple_molecule, npp_v_succinyl_CoA_simple_molecule.
+npp_v_succinyl_CoA_simple_molecule :- ppn_v_succinyl_CoA_simple_molecule, npp_v_succinyl_CoA_simple_molecule.
+ppp_v_succinyl_CoA_simple_molecule :- npn_v_succinyl_CoA_simple_molecule.
+ppp_v_succinyl_CoA_simple_molecule :- ppp_v_succinyl_CoA_simple_molecule.
+ppp_v_2_oxoglutaric_space_acid_simple_molecule :- npn_v_2_oxoglutaric_space_acid_simple_molecule.
+ppp_v_4_hydroxybutyrate_simple_molecule :- npn_v_4_hydroxybutyrate_simple_molecule.
+ppp_v_ATP_simple_molecule :- npn_v_ATP_simple_molecule.
+ppp_v_CO2_simple_molecule :- npn_v_CO2_simple_molecule.
+ppp_v_FADH2_simple_molecule :- npn_v_FADH2_simple_molecule.
+ppp_v_GLUD1 :- npn_v_GLUD1.
+ppp_v_GMP_simple_molecule :- npn_v_GMP_simple_molecule.
+ppp_v_GTP_simple_molecule :- npn_v_GTP_simple_molecule.
+ppp_v_H2O_simple_molecule :- npn_v_H2O_simple_molecule.
+ppp_v_NADH_simple_molecule :- npn_v_NADH_simple_molecule.
+ppp_v_NADPH_simple_molecule :- npn_v_NADPH_simple_molecule.
+ppp_v_NAD____simple_molecule :- npn_v_NAD____simple_molecule.
+ppp_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule :- npn_v__5_hydroxyindol_3_yl_acetic_space_acid_simple_molecule.
+ppp_v__S__2_hydroxyglutaric_space_acid_simple_molecule :- npn_v__S__2_hydroxyglutaric_space_acid_simple_molecule.
+ppp_v__S__malate_2___simple_molecule :- npn_v__S__malate_2___simple_molecule.
+ppp_v_acetate_simple_molecule :- npn_v_acetate_simple_molecule.
+ppp_v_acetyl_CoA_simple_molecule :- npn_v_acetyl_CoA_simple_molecule.
+ppp_v_ammonium_simple_molecule :- npn_v_ammonium_simple_molecule.
+ppp_v_citrate_3___simple_molecule :- npn_v_citrate_3___simple_molecule.
+ppp_v_coenzyme_space_A_simple_molecule :- npn_v_coenzyme_space_A_simple_molecule.
+ppp_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- npn_v_csa1895_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppp_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix :- npn_v_csa1949_pyruvate_space_dehydrogenase_space_complex_complex_mitochondrial_space_matrix.
+ppp_v_isocitrate_space_dehydrogenase_complex :- npn_v_isocitrate_space_dehydrogenase_complex.
+ppp_v_isocitric_space_acid_simple_molecule :- npn_v_isocitric_space_acid_simple_molecule.
+ppp_v_oxaloacetate_2___simple_molecule :- npn_v_oxaloacetate_2___simple_molecule.
+ppp_v_phosphate_3___simple_molecule :- npn_v_phosphate_3___simple_molecule.
+ppp_v_sa11902_H__ion_mitochondrial_space_matrix :- npn_v_sa11902_H__ion_mitochondrial_space_matrix.
+ppp_v_sa11966_H__ion_mitochondrial_space_matrix :- npn_v_sa11966_H__ion_mitochondrial_space_matrix.
+ppp_v_succinic_space_acid_simple_molecule :- npn_v_succinic_space_acid_simple_molecule.
+ppp_v_succinic_space_semialdehyde_simple_molecule :- npn_v_succinic_space_semialdehyde_simple_molecule.
+ppp_v_succinyl_CoA_simple_molecule :- npn_v_succinyl_CoA_simple_molecule.

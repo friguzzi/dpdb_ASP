@@ -1,0 +1,1 @@
+nv_sa11492_UCHL1_neuron

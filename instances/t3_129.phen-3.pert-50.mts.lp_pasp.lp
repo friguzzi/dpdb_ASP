@@ -1,0 +1,562 @@
+0.5::ppn_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+0.5::npn_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+0.5::ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+0.5::npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+0.5::ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+0.5::npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+0.5::ppn_v____sgRNA_space__2_9__gene.
+0.5::npn_v____sgRNA_space__2_9__gene.
+0.5::ppn_v_complex_complex_cell.
+0.5::npn_v_complex_complex_cell.
+0.5::ppn_v_complex_complex_double_membrane_vesicle_viral_factory.
+0.5::npn_v_complex_complex_double_membrane_vesicle_viral_factory.
+0.5::ppn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+0.5::npn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+0.5::ppn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+0.5::npn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+0.5::ppn_v_nsp1.
+0.5::npn_v_nsp1.
+0.5::ppn_v_nsp10.
+0.5::npn_v_nsp10.
+0.5::ppn_v_nsp13.
+0.5::npn_v_nsp13.
+0.5::ppn_v_nsp14.
+0.5::npn_v_nsp14.
+0.5::ppn_v_nsp15.
+0.5::npn_v_nsp15.
+0.5::ppn_v_nsp16.
+0.5::npn_v_nsp16.
+0.5::ppn_v_nsp2.
+0.5::npn_v_nsp2.
+0.5::ppn_v_nsp3.
+0.5::npn_v_nsp3.
+0.5::ppn_v_nsp4.
+0.5::npn_v_nsp4.
+0.5::ppn_v_nsp5.
+0.5::npn_v_nsp5.
+0.5::ppn_v_nsp6.
+0.5::npn_v_nsp6.
+0.5::ppn_v_nsp7.
+0.5::npn_v_nsp7.
+0.5::ppn_v_nsp8_space__II_.
+0.5::npn_v_nsp8_space__II_.
+0.5::ppn_v_nsp8_space__I_.
+0.5::npn_v_nsp8_space__I_.
+0.5::ppn_v_nsp9_cell.
+0.5::npn_v_nsp9_cell.
+0.5::ppn_v_nsp9_double_membrane_vesicle_viral_factory.
+0.5::npn_v_nsp9_double_membrane_vesicle_viral_factory.
+0.5::ppn_v_pp1a_cell.
+0.5::npn_v_pp1a_cell.
+0.5::ppn_v_pp1a_double_membrane_vesicle_viral_factory.
+0.5::npn_v_pp1a_double_membrane_vesicle_viral_factory.
+0.5::ppn_v_pp1ab_cell.
+0.5::npn_v_pp1ab_cell.
+0.5::ppn_v_pp1ab_double_membrane_vesicle_viral_factory.
+0.5::npn_v_pp1ab_double_membrane_vesicle_viral_factory.
+0.5::ppn_v_structural_space_proteins.
+0.5::npn_v_structural_space_proteins.
+0.5::ppn_v_viral_space_accessory.
+0.5::npn_v_viral_space_accessory.
+0.5::ppp_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+0.5::npp_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+0.5::ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+0.5::npp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+0.5::ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+0.5::npp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+0.5::ppp_v____sgRNA_space__2_9__gene.
+0.5::npp_v____sgRNA_space__2_9__gene.
+0.5::ppp_v_complex_complex_cell.
+0.5::npp_v_complex_complex_cell.
+0.5::ppp_v_complex_complex_double_membrane_vesicle_viral_factory.
+0.5::npp_v_complex_complex_double_membrane_vesicle_viral_factory.
+0.5::ppp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+0.5::npp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+0.5::ppp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+0.5::npp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+0.5::ppp_v_nsp1.
+0.5::npp_v_nsp1.
+0.5::ppp_v_nsp10.
+0.5::npp_v_nsp10.
+0.5::ppp_v_nsp13.
+0.5::npp_v_nsp13.
+0.5::ppp_v_nsp14.
+0.5::npp_v_nsp14.
+0.5::ppp_v_nsp15.
+0.5::npp_v_nsp15.
+0.5::ppp_v_nsp16.
+0.5::npp_v_nsp16.
+0.5::ppp_v_nsp2.
+0.5::npp_v_nsp2.
+0.5::ppp_v_nsp3.
+0.5::npp_v_nsp3.
+0.5::ppp_v_nsp4.
+0.5::npp_v_nsp4.
+0.5::ppp_v_nsp5.
+0.5::npp_v_nsp5.
+0.5::ppp_v_nsp6.
+0.5::npp_v_nsp6.
+0.5::ppp_v_nsp7.
+0.5::npp_v_nsp7.
+0.5::ppp_v_nsp8_space__II_.
+0.5::npp_v_nsp8_space__II_.
+0.5::ppp_v_nsp8_space__I_.
+0.5::npp_v_nsp8_space__I_.
+0.5::ppp_v_nsp9_cell.
+0.5::npp_v_nsp9_cell.
+0.5::ppp_v_nsp9_double_membrane_vesicle_viral_factory.
+0.5::npp_v_nsp9_double_membrane_vesicle_viral_factory.
+0.5::ppp_v_pp1a_cell.
+0.5::npp_v_pp1a_cell.
+0.5::ppp_v_pp1a_double_membrane_vesicle_viral_factory.
+0.5::npp_v_pp1a_double_membrane_vesicle_viral_factory.
+0.5::ppp_v_pp1ab_cell.
+0.5::npp_v_pp1ab_cell.
+0.5::ppp_v_pp1ab_double_membrane_vesicle_viral_factory.
+0.5::npp_v_pp1ab_double_membrane_vesicle_viral_factory.
+0.5::ppp_v_structural_space_proteins.
+0.5::npp_v_structural_space_proteins.
+0.5::ppp_v_viral_space_accessory.
+0.5::npp_v_viral_space_accessory.
+pv_CoV_space_poly_br_merase_space_complex_complex_cell, nv_CoV_space_poly_br_merase_space_complex_complex_cell.
+aux_0_0 :- npp_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+aux_0_0 :- nv_nsp14, nv_nsp10, nv_nsp12.
+nv_CoV_space_poly_br_merase_space_complex_complex_cell :- ppn_v_CoV_space_poly_br_merase_space_complex_complex_cell, aux_0_0.
+pv_CoV_space_poly_br_merase_space_complex_complex_cell :- npn_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+aux_0_1 :- pv_nsp14.
+aux_0_1 :- pv_nsp10.
+aux_0_1 :- pv_nsp12.
+pv_CoV_space_poly_br_merase_space_complex_complex_cell :- ppp_v_CoV_space_poly_br_merase_space_complex_complex_cell, aux_0_1.
+pv_CoV_space_poly_br_merase_space_complex_complex_double_membrane_vesicle_viral_factory, nv_CoV_space_poly_br_merase_space_complex_complex_double_membrane_vesicle_viral_factory.
+nv_CoV_space_poly_br_merase_space_complex_complex_double_membrane_vesicle_viral_factory :- nv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+pv_CoV_space_poly_br_merase_space_complex_complex_double_membrane_vesicle_viral_factory :- pv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene, nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+aux_0_2 :- nv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+aux_0_2 :- npp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene :- ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene, aux_0_2.
+pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene :- npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene :- pv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell, nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell.
+nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell :- nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell.
+pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell :- pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell.
+pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory, nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+aux_0_3 :- nv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+aux_0_3 :- npp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory :- ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory, aux_0_3.
+pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory :- npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory :- pv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+pv____sgRNA_space__2_9__gene, nv____sgRNA_space__2_9__gene.
+aux_0_4 :- npp_v____sgRNA_space__2_9__gene.
+aux_0_4 :- nv_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+nv____sgRNA_space__2_9__gene :- ppn_v____sgRNA_space__2_9__gene, aux_0_4.
+pv____sgRNA_space__2_9__gene :- npn_v____sgRNA_space__2_9__gene.
+pv____sgRNA_space__2_9__gene :- ppp_v____sgRNA_space__2_9__gene, pv_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+pv_complex_complex_cell, nv_complex_complex_cell.
+aux_0_5 :- npp_v_complex_complex_cell.
+aux_0_5 :- nv_nsp8_space__I_, nv_nsp8_space__II_, nv_nsp7.
+nv_complex_complex_cell :- ppn_v_complex_complex_cell, aux_0_5.
+pv_complex_complex_cell :- npn_v_complex_complex_cell.
+aux_0_6 :- pv_nsp8_space__I_.
+aux_0_6 :- pv_nsp8_space__II_.
+aux_0_6 :- pv_nsp7.
+pv_complex_complex_cell :- ppp_v_complex_complex_cell, aux_0_6.
+pv_complex_complex_double_membrane_vesicle_viral_factory, nv_complex_complex_double_membrane_vesicle_viral_factory.
+aux_0_7 :- nv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+aux_0_7 :- npp_v_complex_complex_double_membrane_vesicle_viral_factory.
+nv_complex_complex_double_membrane_vesicle_viral_factory :- ppn_v_complex_complex_double_membrane_vesicle_viral_factory, aux_0_7.
+pv_complex_complex_double_membrane_vesicle_viral_factory :- npn_v_complex_complex_double_membrane_vesicle_viral_factory.
+pv_complex_complex_double_membrane_vesicle_viral_factory :- pv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, ppp_v_complex_complex_double_membrane_vesicle_viral_factory.
+pv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, nv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+aux_0_8 :- nv_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+aux_0_8 :- npp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+nv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- ppn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, aux_0_8.
+pv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- npn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+pv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- pv_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, ppp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+pv_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, nv_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+aux_0_9 :- npp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+aux_0_9 :- nv_CoV_space_poly_br_merase_space_complex_complex_cell, nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell, nv_complex_complex_cell, nv_nsp9_cell.
+nv_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- ppn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, aux_0_9.
+pv_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- npn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+aux_0_10 :- pv_CoV_space_poly_br_merase_space_complex_complex_cell.
+aux_0_10 :- pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell.
+aux_0_10 :- pv_complex_complex_cell.
+aux_0_10 :- pv_nsp9_cell.
+pv_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- ppp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, aux_0_10.
+pv_nsp1, nv_nsp1.
+aux_0_11 :- npp_v_nsp1.
+aux_0_11 :- nv_pp1a_cell.
+nv_nsp1 :- ppn_v_nsp1, aux_0_11.
+pv_nsp1 :- npn_v_nsp1.
+pv_nsp1 :- ppp_v_nsp1, pv_pp1a_cell.
+pv_nsp10, nv_nsp10.
+aux_0_12 :- nv_pp1a_cell.
+aux_0_12 :- npp_v_nsp10.
+nv_nsp10 :- ppn_v_nsp10, aux_0_12.
+pv_nsp10 :- npn_v_nsp10.
+pv_nsp10 :- pv_pp1a_cell, ppp_v_nsp10.
+pv_nsp11, nv_nsp11.
+nv_nsp11 :- nv_pp1a_cell.
+pv_nsp11 :- pv_pp1a_cell.
+pv_nsp12, nv_nsp12.
+nv_nsp12 :- nv_pp1ab_cell.
+pv_nsp12 :- pv_pp1ab_cell.
+pv_nsp13, nv_nsp13.
+aux_0_13 :- nv_pp1ab_cell.
+aux_0_13 :- npp_v_nsp13.
+nv_nsp13 :- ppn_v_nsp13, aux_0_13.
+pv_nsp13 :- npn_v_nsp13.
+pv_nsp13 :- pv_pp1ab_cell, ppp_v_nsp13.
+pv_nsp14, nv_nsp14.
+aux_0_14 :- nv_pp1ab_cell.
+aux_0_14 :- npp_v_nsp14.
+nv_nsp14 :- ppn_v_nsp14, aux_0_14.
+pv_nsp14 :- npn_v_nsp14.
+pv_nsp14 :- pv_pp1ab_cell, ppp_v_nsp14.
+pv_nsp15, nv_nsp15.
+aux_0_15 :- nv_pp1ab_cell.
+aux_0_15 :- npp_v_nsp15.
+nv_nsp15 :- ppn_v_nsp15, aux_0_15.
+pv_nsp15 :- npn_v_nsp15.
+pv_nsp15 :- pv_pp1ab_cell, ppp_v_nsp15.
+pv_nsp16, nv_nsp16.
+aux_0_16 :- nv_pp1ab_cell.
+aux_0_16 :- npp_v_nsp16.
+nv_nsp16 :- ppn_v_nsp16, aux_0_16.
+pv_nsp16 :- npn_v_nsp16.
+pv_nsp16 :- pv_pp1ab_cell, ppp_v_nsp16.
+pv_nsp2, nv_nsp2.
+aux_0_17 :- nv_pp1a_cell.
+aux_0_17 :- npp_v_nsp2.
+nv_nsp2 :- ppn_v_nsp2, aux_0_17.
+pv_nsp2 :- npn_v_nsp2.
+pv_nsp2 :- pv_pp1a_cell, ppp_v_nsp2.
+pv_nsp3, nv_nsp3.
+aux_0_18 :- nv_pp1a_cell.
+aux_0_18 :- npp_v_nsp3.
+nv_nsp3 :- ppn_v_nsp3, aux_0_18.
+pv_nsp3 :- npn_v_nsp3.
+pv_nsp3 :- pv_pp1a_cell, ppp_v_nsp3.
+pv_nsp4, nv_nsp4.
+aux_0_19 :- nv_pp1a_cell.
+aux_0_19 :- npp_v_nsp4.
+nv_nsp4 :- ppn_v_nsp4, aux_0_19.
+pv_nsp4 :- npn_v_nsp4.
+pv_nsp4 :- pv_pp1a_cell, ppp_v_nsp4.
+pv_nsp5, nv_nsp5.
+aux_0_20 :- nv_pp1a_cell.
+aux_0_20 :- npp_v_nsp5.
+nv_nsp5 :- ppn_v_nsp5, aux_0_20.
+pv_nsp5 :- npn_v_nsp5.
+pv_nsp5 :- pv_pp1a_cell, ppp_v_nsp5.
+pv_nsp6, nv_nsp6.
+aux_0_21 :- nv_pp1a_cell.
+aux_0_21 :- npp_v_nsp6.
+nv_nsp6 :- ppn_v_nsp6, aux_0_21.
+pv_nsp6 :- npn_v_nsp6.
+pv_nsp6 :- pv_pp1a_cell, ppp_v_nsp6.
+pv_nsp7, nv_nsp7.
+aux_0_22 :- nv_pp1a_cell.
+aux_0_22 :- npp_v_nsp7.
+nv_nsp7 :- ppn_v_nsp7, aux_0_22.
+pv_nsp7 :- npn_v_nsp7.
+pv_nsp7 :- pv_pp1a_cell, ppp_v_nsp7.
+pv_nsp8_space__II_, nv_nsp8_space__II_.
+aux_0_23 :- nv_pp1a_cell.
+aux_0_23 :- npp_v_nsp8_space__II_.
+nv_nsp8_space__II_ :- ppn_v_nsp8_space__II_, aux_0_23.
+pv_nsp8_space__II_ :- npn_v_nsp8_space__II_.
+pv_nsp8_space__II_ :- pv_pp1a_cell, ppp_v_nsp8_space__II_.
+pv_nsp8_space__I_, nv_nsp8_space__I_.
+aux_0_24 :- nv_pp1a_cell.
+aux_0_24 :- npp_v_nsp8_space__I_.
+nv_nsp8_space__I_ :- ppn_v_nsp8_space__I_, aux_0_24.
+pv_nsp8_space__I_ :- npn_v_nsp8_space__I_.
+pv_nsp8_space__I_ :- pv_pp1a_cell, ppp_v_nsp8_space__I_.
+pv_nsp9_cell, nv_nsp9_cell.
+aux_0_25 :- nv_pp1a_cell.
+aux_0_25 :- npp_v_nsp9_cell.
+nv_nsp9_cell :- ppn_v_nsp9_cell, aux_0_25.
+pv_nsp9_cell :- npn_v_nsp9_cell.
+pv_nsp9_cell :- pv_pp1a_cell, ppp_v_nsp9_cell.
+pv_nsp9_double_membrane_vesicle_viral_factory, nv_nsp9_double_membrane_vesicle_viral_factory.
+aux_0_26 :- nv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+aux_0_26 :- npp_v_nsp9_double_membrane_vesicle_viral_factory.
+nv_nsp9_double_membrane_vesicle_viral_factory :- ppn_v_nsp9_double_membrane_vesicle_viral_factory, aux_0_26.
+pv_nsp9_double_membrane_vesicle_viral_factory :- npn_v_nsp9_double_membrane_vesicle_viral_factory.
+pv_nsp9_double_membrane_vesicle_viral_factory :- pv_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, ppp_v_nsp9_double_membrane_vesicle_viral_factory.
+pv_pp1a_cell, nv_pp1a_cell.
+aux_0_27 :- nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell.
+aux_0_27 :- npp_v_pp1a_cell.
+nv_pp1a_cell :- ppn_v_pp1a_cell, aux_0_27.
+pv_pp1a_cell :- npn_v_pp1a_cell.
+pv_pp1a_cell :- pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell, ppp_v_pp1a_cell.
+pv_pp1a_double_membrane_vesicle_viral_factory, nv_pp1a_double_membrane_vesicle_viral_factory.
+aux_0_28 :- nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+aux_0_28 :- npp_v_pp1a_double_membrane_vesicle_viral_factory.
+nv_pp1a_double_membrane_vesicle_viral_factory :- ppn_v_pp1a_double_membrane_vesicle_viral_factory, aux_0_28.
+pv_pp1a_double_membrane_vesicle_viral_factory :- npn_v_pp1a_double_membrane_vesicle_viral_factory.
+pv_pp1a_double_membrane_vesicle_viral_factory :- pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory, ppp_v_pp1a_double_membrane_vesicle_viral_factory.
+pv_pp1ab_cell, nv_pp1ab_cell.
+aux_0_29 :- nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell.
+aux_0_29 :- npp_v_pp1ab_cell.
+nv_pp1ab_cell :- ppn_v_pp1ab_cell, aux_0_29.
+pv_pp1ab_cell :- npn_v_pp1ab_cell.
+pv_pp1ab_cell :- pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_cell, ppp_v_pp1ab_cell.
+pv_pp1ab_double_membrane_vesicle_viral_factory, nv_pp1ab_double_membrane_vesicle_viral_factory.
+aux_0_30 :- nv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+aux_0_30 :- npp_v_pp1ab_double_membrane_vesicle_viral_factory.
+nv_pp1ab_double_membrane_vesicle_viral_factory :- ppn_v_pp1ab_double_membrane_vesicle_viral_factory, aux_0_30.
+pv_pp1ab_double_membrane_vesicle_viral_factory :- npn_v_pp1ab_double_membrane_vesicle_viral_factory.
+pv_pp1ab_double_membrane_vesicle_viral_factory :- pv____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory, ppp_v_pp1ab_double_membrane_vesicle_viral_factory.
+pv_structural_space_proteins, nv_structural_space_proteins.
+aux_0_31 :- nv____sgRNA_space__2_9__gene.
+aux_0_31 :- npp_v_structural_space_proteins.
+nv_structural_space_proteins :- ppn_v_structural_space_proteins, aux_0_31.
+pv_structural_space_proteins :- npn_v_structural_space_proteins.
+pv_structural_space_proteins :- pv____sgRNA_space__2_9__gene, ppp_v_structural_space_proteins.
+pv_viral_space_accessory, nv_viral_space_accessory.
+aux_0_32 :- nv____sgRNA_space__2_9__gene.
+aux_0_32 :- npp_v_viral_space_accessory.
+nv_viral_space_accessory :- ppn_v_viral_space_accessory, aux_0_32.
+pv_viral_space_accessory :- npn_v_viral_space_accessory.
+pv_viral_space_accessory :- pv____sgRNA_space__2_9__gene, ppp_v_viral_space_accessory.
+ppn_v_CoV_space_poly_br_merase_space_complex_complex_cell, npn_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+npn_v_CoV_space_poly_br_merase_space_complex_complex_cell :- npn_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+ppn_v_CoV_space_poly_br_merase_space_complex_complex_cell :- ppn_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene, npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene :- npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene :- ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory, npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory :- npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory :- ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+ppn_v____sgRNA_space__2_9__gene, npn_v____sgRNA_space__2_9__gene.
+npn_v____sgRNA_space__2_9__gene :- npn_v____sgRNA_space__2_9__gene.
+ppn_v____sgRNA_space__2_9__gene :- ppn_v____sgRNA_space__2_9__gene.
+ppn_v_complex_complex_cell, npn_v_complex_complex_cell.
+npn_v_complex_complex_cell :- npn_v_complex_complex_cell.
+ppn_v_complex_complex_cell :- ppn_v_complex_complex_cell.
+ppn_v_complex_complex_double_membrane_vesicle_viral_factory, npn_v_complex_complex_double_membrane_vesicle_viral_factory.
+npn_v_complex_complex_double_membrane_vesicle_viral_factory :- npn_v_complex_complex_double_membrane_vesicle_viral_factory.
+ppn_v_complex_complex_double_membrane_vesicle_viral_factory :- ppn_v_complex_complex_double_membrane_vesicle_viral_factory.
+ppn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, npn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+npn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- npn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- ppn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, npn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+npn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- npn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- ppn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppn_v_nsp1, npn_v_nsp1.
+npn_v_nsp1 :- npn_v_nsp1.
+ppn_v_nsp1 :- ppn_v_nsp1.
+ppn_v_nsp10, npn_v_nsp10.
+npn_v_nsp10 :- npn_v_nsp10.
+ppn_v_nsp10 :- ppn_v_nsp10.
+ppn_v_nsp13, npn_v_nsp13.
+npn_v_nsp13 :- npn_v_nsp13.
+ppn_v_nsp13 :- ppn_v_nsp13.
+ppn_v_nsp14, npn_v_nsp14.
+npn_v_nsp14 :- npn_v_nsp14.
+ppn_v_nsp14 :- ppn_v_nsp14.
+ppn_v_nsp15, npn_v_nsp15.
+npn_v_nsp15 :- npn_v_nsp15.
+ppn_v_nsp15 :- ppn_v_nsp15.
+ppn_v_nsp16, npn_v_nsp16.
+npn_v_nsp16 :- npn_v_nsp16.
+ppn_v_nsp16 :- ppn_v_nsp16.
+ppn_v_nsp2, npn_v_nsp2.
+npn_v_nsp2 :- npn_v_nsp2.
+ppn_v_nsp2 :- ppn_v_nsp2.
+ppn_v_nsp3, npn_v_nsp3.
+npn_v_nsp3 :- npn_v_nsp3.
+ppn_v_nsp3 :- ppn_v_nsp3.
+ppn_v_nsp4, npn_v_nsp4.
+npn_v_nsp4 :- npn_v_nsp4.
+ppn_v_nsp4 :- ppn_v_nsp4.
+ppn_v_nsp5, npn_v_nsp5.
+npn_v_nsp5 :- npn_v_nsp5.
+ppn_v_nsp5 :- ppn_v_nsp5.
+ppn_v_nsp6, npn_v_nsp6.
+npn_v_nsp6 :- npn_v_nsp6.
+ppn_v_nsp6 :- ppn_v_nsp6.
+ppn_v_nsp7, npn_v_nsp7.
+npn_v_nsp7 :- npn_v_nsp7.
+ppn_v_nsp7 :- ppn_v_nsp7.
+ppn_v_nsp8_space__II_, npn_v_nsp8_space__II_.
+npn_v_nsp8_space__II_ :- npn_v_nsp8_space__II_.
+ppn_v_nsp8_space__II_ :- ppn_v_nsp8_space__II_.
+ppn_v_nsp8_space__I_, npn_v_nsp8_space__I_.
+npn_v_nsp8_space__I_ :- npn_v_nsp8_space__I_.
+ppn_v_nsp8_space__I_ :- ppn_v_nsp8_space__I_.
+ppn_v_nsp9_cell, npn_v_nsp9_cell.
+npn_v_nsp9_cell :- npn_v_nsp9_cell.
+ppn_v_nsp9_cell :- ppn_v_nsp9_cell.
+ppn_v_nsp9_double_membrane_vesicle_viral_factory, npn_v_nsp9_double_membrane_vesicle_viral_factory.
+npn_v_nsp9_double_membrane_vesicle_viral_factory :- npn_v_nsp9_double_membrane_vesicle_viral_factory.
+ppn_v_nsp9_double_membrane_vesicle_viral_factory :- ppn_v_nsp9_double_membrane_vesicle_viral_factory.
+ppn_v_pp1a_cell, npn_v_pp1a_cell.
+npn_v_pp1a_cell :- npn_v_pp1a_cell.
+ppn_v_pp1a_cell :- ppn_v_pp1a_cell.
+ppn_v_pp1a_double_membrane_vesicle_viral_factory, npn_v_pp1a_double_membrane_vesicle_viral_factory.
+npn_v_pp1a_double_membrane_vesicle_viral_factory :- npn_v_pp1a_double_membrane_vesicle_viral_factory.
+ppn_v_pp1a_double_membrane_vesicle_viral_factory :- ppn_v_pp1a_double_membrane_vesicle_viral_factory.
+ppn_v_pp1ab_cell, npn_v_pp1ab_cell.
+npn_v_pp1ab_cell :- npn_v_pp1ab_cell.
+ppn_v_pp1ab_cell :- ppn_v_pp1ab_cell.
+ppn_v_pp1ab_double_membrane_vesicle_viral_factory, npn_v_pp1ab_double_membrane_vesicle_viral_factory.
+npn_v_pp1ab_double_membrane_vesicle_viral_factory :- npn_v_pp1ab_double_membrane_vesicle_viral_factory.
+ppn_v_pp1ab_double_membrane_vesicle_viral_factory :- ppn_v_pp1ab_double_membrane_vesicle_viral_factory.
+ppn_v_structural_space_proteins, npn_v_structural_space_proteins.
+npn_v_structural_space_proteins :- npn_v_structural_space_proteins.
+ppn_v_structural_space_proteins :- ppn_v_structural_space_proteins.
+ppn_v_viral_space_accessory, npn_v_viral_space_accessory.
+npn_v_viral_space_accessory :- npn_v_viral_space_accessory.
+ppn_v_viral_space_accessory :- ppn_v_viral_space_accessory.
+ppp_v_CoV_space_poly_br_merase_space_complex_complex_cell, npp_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+npp_v_CoV_space_poly_br_merase_space_complex_complex_cell :- ppn_v_CoV_space_poly_br_merase_space_complex_complex_cell, npp_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+ppp_v_CoV_space_poly_br_merase_space_complex_complex_cell :- npn_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+ppp_v_CoV_space_poly_br_merase_space_complex_complex_cell :- ppp_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene, npp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+npp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene :- ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene, npp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene :- npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene :- ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory, npp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+npp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory :- ppn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory, npp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory :- npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory :- ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+ppp_v____sgRNA_space__2_9__gene, npp_v____sgRNA_space__2_9__gene.
+npp_v____sgRNA_space__2_9__gene :- ppn_v____sgRNA_space__2_9__gene, npp_v____sgRNA_space__2_9__gene.
+ppp_v____sgRNA_space__2_9__gene :- npn_v____sgRNA_space__2_9__gene.
+ppp_v____sgRNA_space__2_9__gene :- ppp_v____sgRNA_space__2_9__gene.
+ppp_v_complex_complex_cell, npp_v_complex_complex_cell.
+npp_v_complex_complex_cell :- ppn_v_complex_complex_cell, npp_v_complex_complex_cell.
+ppp_v_complex_complex_cell :- npn_v_complex_complex_cell.
+ppp_v_complex_complex_cell :- ppp_v_complex_complex_cell.
+ppp_v_complex_complex_double_membrane_vesicle_viral_factory, npp_v_complex_complex_double_membrane_vesicle_viral_factory.
+npp_v_complex_complex_double_membrane_vesicle_viral_factory :- ppn_v_complex_complex_double_membrane_vesicle_viral_factory, npp_v_complex_complex_double_membrane_vesicle_viral_factory.
+ppp_v_complex_complex_double_membrane_vesicle_viral_factory :- npn_v_complex_complex_double_membrane_vesicle_viral_factory.
+ppp_v_complex_complex_double_membrane_vesicle_viral_factory :- ppp_v_complex_complex_double_membrane_vesicle_viral_factory.
+ppp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, npp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+npp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- ppn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, npp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- npn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- ppp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, npp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+npp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- ppn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory, npp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- npn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- ppp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppp_v_nsp1, npp_v_nsp1.
+npp_v_nsp1 :- ppn_v_nsp1, npp_v_nsp1.
+ppp_v_nsp1 :- npn_v_nsp1.
+ppp_v_nsp1 :- ppp_v_nsp1.
+ppp_v_nsp10, npp_v_nsp10.
+npp_v_nsp10 :- ppn_v_nsp10, npp_v_nsp10.
+ppp_v_nsp10 :- npn_v_nsp10.
+ppp_v_nsp10 :- ppp_v_nsp10.
+ppp_v_nsp13, npp_v_nsp13.
+npp_v_nsp13 :- ppn_v_nsp13, npp_v_nsp13.
+ppp_v_nsp13 :- npn_v_nsp13.
+ppp_v_nsp13 :- ppp_v_nsp13.
+ppp_v_nsp14, npp_v_nsp14.
+npp_v_nsp14 :- ppn_v_nsp14, npp_v_nsp14.
+ppp_v_nsp14 :- npn_v_nsp14.
+ppp_v_nsp14 :- ppp_v_nsp14.
+ppp_v_nsp15, npp_v_nsp15.
+npp_v_nsp15 :- ppn_v_nsp15, npp_v_nsp15.
+ppp_v_nsp15 :- npn_v_nsp15.
+ppp_v_nsp15 :- ppp_v_nsp15.
+ppp_v_nsp16, npp_v_nsp16.
+npp_v_nsp16 :- ppn_v_nsp16, npp_v_nsp16.
+ppp_v_nsp16 :- npn_v_nsp16.
+ppp_v_nsp16 :- ppp_v_nsp16.
+ppp_v_nsp2, npp_v_nsp2.
+npp_v_nsp2 :- ppn_v_nsp2, npp_v_nsp2.
+ppp_v_nsp2 :- npn_v_nsp2.
+ppp_v_nsp2 :- ppp_v_nsp2.
+ppp_v_nsp3, npp_v_nsp3.
+npp_v_nsp3 :- ppn_v_nsp3, npp_v_nsp3.
+ppp_v_nsp3 :- npn_v_nsp3.
+ppp_v_nsp3 :- ppp_v_nsp3.
+ppp_v_nsp4, npp_v_nsp4.
+npp_v_nsp4 :- ppn_v_nsp4, npp_v_nsp4.
+ppp_v_nsp4 :- npn_v_nsp4.
+ppp_v_nsp4 :- ppp_v_nsp4.
+ppp_v_nsp5, npp_v_nsp5.
+npp_v_nsp5 :- ppn_v_nsp5, npp_v_nsp5.
+ppp_v_nsp5 :- npn_v_nsp5.
+ppp_v_nsp5 :- ppp_v_nsp5.
+ppp_v_nsp6, npp_v_nsp6.
+npp_v_nsp6 :- ppn_v_nsp6, npp_v_nsp6.
+ppp_v_nsp6 :- npn_v_nsp6.
+ppp_v_nsp6 :- ppp_v_nsp6.
+ppp_v_nsp7, npp_v_nsp7.
+npp_v_nsp7 :- ppn_v_nsp7, npp_v_nsp7.
+ppp_v_nsp7 :- npn_v_nsp7.
+ppp_v_nsp7 :- ppp_v_nsp7.
+ppp_v_nsp8_space__II_, npp_v_nsp8_space__II_.
+npp_v_nsp8_space__II_ :- ppn_v_nsp8_space__II_, npp_v_nsp8_space__II_.
+ppp_v_nsp8_space__II_ :- npn_v_nsp8_space__II_.
+ppp_v_nsp8_space__II_ :- ppp_v_nsp8_space__II_.
+ppp_v_nsp8_space__I_, npp_v_nsp8_space__I_.
+npp_v_nsp8_space__I_ :- ppn_v_nsp8_space__I_, npp_v_nsp8_space__I_.
+ppp_v_nsp8_space__I_ :- npn_v_nsp8_space__I_.
+ppp_v_nsp8_space__I_ :- ppp_v_nsp8_space__I_.
+ppp_v_nsp9_cell, npp_v_nsp9_cell.
+npp_v_nsp9_cell :- ppn_v_nsp9_cell, npp_v_nsp9_cell.
+ppp_v_nsp9_cell :- npn_v_nsp9_cell.
+ppp_v_nsp9_cell :- ppp_v_nsp9_cell.
+ppp_v_nsp9_double_membrane_vesicle_viral_factory, npp_v_nsp9_double_membrane_vesicle_viral_factory.
+npp_v_nsp9_double_membrane_vesicle_viral_factory :- ppn_v_nsp9_double_membrane_vesicle_viral_factory, npp_v_nsp9_double_membrane_vesicle_viral_factory.
+ppp_v_nsp9_double_membrane_vesicle_viral_factory :- npn_v_nsp9_double_membrane_vesicle_viral_factory.
+ppp_v_nsp9_double_membrane_vesicle_viral_factory :- ppp_v_nsp9_double_membrane_vesicle_viral_factory.
+ppp_v_pp1a_cell, npp_v_pp1a_cell.
+npp_v_pp1a_cell :- ppn_v_pp1a_cell, npp_v_pp1a_cell.
+ppp_v_pp1a_cell :- npn_v_pp1a_cell.
+ppp_v_pp1a_cell :- ppp_v_pp1a_cell.
+ppp_v_pp1a_double_membrane_vesicle_viral_factory, npp_v_pp1a_double_membrane_vesicle_viral_factory.
+npp_v_pp1a_double_membrane_vesicle_viral_factory :- ppn_v_pp1a_double_membrane_vesicle_viral_factory, npp_v_pp1a_double_membrane_vesicle_viral_factory.
+ppp_v_pp1a_double_membrane_vesicle_viral_factory :- npn_v_pp1a_double_membrane_vesicle_viral_factory.
+ppp_v_pp1a_double_membrane_vesicle_viral_factory :- ppp_v_pp1a_double_membrane_vesicle_viral_factory.
+ppp_v_pp1ab_cell, npp_v_pp1ab_cell.
+npp_v_pp1ab_cell :- ppn_v_pp1ab_cell, npp_v_pp1ab_cell.
+ppp_v_pp1ab_cell :- npn_v_pp1ab_cell.
+ppp_v_pp1ab_cell :- ppp_v_pp1ab_cell.
+ppp_v_pp1ab_double_membrane_vesicle_viral_factory, npp_v_pp1ab_double_membrane_vesicle_viral_factory.
+npp_v_pp1ab_double_membrane_vesicle_viral_factory :- ppn_v_pp1ab_double_membrane_vesicle_viral_factory, npp_v_pp1ab_double_membrane_vesicle_viral_factory.
+ppp_v_pp1ab_double_membrane_vesicle_viral_factory :- npn_v_pp1ab_double_membrane_vesicle_viral_factory.
+ppp_v_pp1ab_double_membrane_vesicle_viral_factory :- ppp_v_pp1ab_double_membrane_vesicle_viral_factory.
+ppp_v_structural_space_proteins, npp_v_structural_space_proteins.
+npp_v_structural_space_proteins :- ppn_v_structural_space_proteins, npp_v_structural_space_proteins.
+ppp_v_structural_space_proteins :- npn_v_structural_space_proteins.
+ppp_v_structural_space_proteins :- ppp_v_structural_space_proteins.
+ppp_v_viral_space_accessory, npp_v_viral_space_accessory.
+npp_v_viral_space_accessory :- ppn_v_viral_space_accessory, npp_v_viral_space_accessory.
+ppp_v_viral_space_accessory :- npn_v_viral_space_accessory.
+ppp_v_viral_space_accessory :- ppp_v_viral_space_accessory.
+ppp_v_CoV_space_poly_br_merase_space_complex_complex_cell :- npn_v_CoV_space_poly_br_merase_space_complex_complex_cell.
+ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene :- npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene.
+ppp_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory :- npn_v____gRNA_space__including_space_ORF1a_space_ORF1b__gene_double_membrane_vesicle_viral_factory.
+ppp_v____sgRNA_space__2_9__gene :- npn_v____sgRNA_space__2_9__gene.
+ppp_v_complex_complex_cell :- npn_v_complex_complex_cell.
+ppp_v_complex_complex_double_membrane_vesicle_viral_factory :- npn_v_complex_complex_double_membrane_vesicle_viral_factory.
+ppp_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- npn_v_glyph2_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppp_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory :- npn_v_glyph3_Replication_space_transcription_space_complex_space__complex_double_membrane_vesicle_viral_factory.
+ppp_v_nsp1 :- npn_v_nsp1.
+ppp_v_nsp10 :- npn_v_nsp10.
+ppp_v_nsp13 :- npn_v_nsp13.
+ppp_v_nsp14 :- npn_v_nsp14.
+ppp_v_nsp15 :- npn_v_nsp15.
+ppp_v_nsp16 :- npn_v_nsp16.
+ppp_v_nsp2 :- npn_v_nsp2.
+ppp_v_nsp3 :- npn_v_nsp3.
+ppp_v_nsp4 :- npn_v_nsp4.
+ppp_v_nsp5 :- npn_v_nsp5.
+ppp_v_nsp6 :- npn_v_nsp6.
+ppp_v_nsp7 :- npn_v_nsp7.
+ppp_v_nsp8_space__II_ :- npn_v_nsp8_space__II_.
+ppp_v_nsp8_space__I_ :- npn_v_nsp8_space__I_.
+ppp_v_nsp9_cell :- npn_v_nsp9_cell.
+ppp_v_nsp9_double_membrane_vesicle_viral_factory :- npn_v_nsp9_double_membrane_vesicle_viral_factory.
+ppp_v_pp1a_cell :- npn_v_pp1a_cell.
+ppp_v_pp1a_double_membrane_vesicle_viral_factory :- npn_v_pp1a_double_membrane_vesicle_viral_factory.
+ppp_v_pp1ab_cell :- npn_v_pp1ab_cell.
+ppp_v_pp1ab_double_membrane_vesicle_viral_factory :- npn_v_pp1ab_double_membrane_vesicle_viral_factory.
+ppp_v_structural_space_proteins :- npn_v_structural_space_proteins.
+ppp_v_viral_space_accessory :- npn_v_viral_space_accessory.

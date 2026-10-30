@@ -1,0 +1,1 @@
+nv_E_endoplasmic_reticulum_Golgi_intermediate_compartment

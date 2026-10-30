@@ -1,0 +1,1 @@
+nv_Acetyl_CoA_acetyltransferase

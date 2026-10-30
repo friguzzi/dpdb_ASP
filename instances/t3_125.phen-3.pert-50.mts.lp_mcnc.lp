@@ -1,0 +1,687 @@
+pv_AMP_simple_molecule, nv_AMP_simple_molecule.
+aux_0_0 :- npp_v_AMP_simple_molecule.
+aux_0_0 :- nv_ATP_simple_molecule, nv_E1, nv_Ub_simple_molecule.
+nv_AMP_simple_molecule :- ppn_v_AMP_simple_molecule, aux_0_0.
+pv_AMP_simple_molecule :- npn_v_AMP_simple_molecule.
+aux_0_1 :- pv_ATP_simple_molecule.
+aux_0_1 :- pv_E1.
+aux_0_1 :- pv_Ub_simple_molecule.
+pv_AMP_simple_molecule :- ppp_v_AMP_simple_molecule, aux_0_1.
+pv_ATP_simple_molecule, nv_ATP_simple_molecule.
+nv_ATP_simple_molecule :- nv_ATP_simple_molecule.
+pv_ATP_simple_molecule :- pv_ATP_simple_molecule.
+pv_CSN5_complex, nv_CSN5_complex.
+nv_CSN5_complex :- nv_CSN5_complex.
+pv_CSN5_complex :- pv_CSN5_complex.
+pv_CUL2_rna, nv_CUL2_rna.
+nv_CUL2_rna :- nv_CUL2_rna.
+pv_CUL2_rna :- pv_CUL2_rna.
+pv_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex, nv_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+aux_0_2 :- npp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+aux_0_2 :- nv_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell, nv_E2_ubiquitinated.
+nv_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex, aux_0_2.
+pv_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+aux_0_3 :- pv_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+aux_0_3 :- pv_E2_ubiquitinated.
+pv_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex, aux_0_3.
+pv_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex, nv_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+aux_0_4 :- nv_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+aux_0_4 :- npp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+nv_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex, aux_0_4.
+pv_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+pv_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex :- pv_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex, ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+pv_Cul2_ubiquitin_ligase_N8_E2_substrate_complex, nv_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+aux_0_5 :- npp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+aux_0_5 :- nv_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell, nv_E2.
+nv_Cul2_ubiquitin_ligase_N8_E2_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex, aux_0_5.
+pv_Cul2_ubiquitin_ligase_N8_E2_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+aux_0_6 :- pv_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+aux_0_6 :- pv_E2.
+pv_Cul2_ubiquitin_ligase_N8_E2_substrate_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex, aux_0_6.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex, nv_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+aux_0_7 :- npp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+aux_0_7 :- nv_E2, nv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+nv_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex, aux_0_7.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+aux_0_8 :- pv_E2.
+aux_0_8 :- pv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex, aux_0_8.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_E2_Ub_substrate_complex, nv_Cul2_ubiquitin_ligase_N8_Orf10_E2_Ub_substrate_complex.
+nv_Cul2_ubiquitin_ligase_N8_Orf10_E2_Ub_substrate_complex :- nv_E2_ubiquitinated, nv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_E2_Ub_substrate_complex :- pv_E2_ubiquitinated.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_E2_Ub_substrate_complex :- pv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex, nv_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+aux_0_9 :- nv_Cul2_ubiquitin_ligase_N8_Orf10_E2_Ub_substrate_complex.
+aux_0_9 :- npp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+nv_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex, aux_0_9.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex :- pv_Cul2_ubiquitin_ligase_N8_Orf10_E2_Ub_substrate_complex, ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_complex, nv_Cul2_ubiquitin_ligase_N8_Orf10_complex.
+nv_Cul2_ubiquitin_ligase_N8_Orf10_complex :- nv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_Ub_complex.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_complex :- pv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_Ub_complex.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_Ub_complex, nv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_Ub_complex.
+nv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_Ub_complex :- nv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_Ub_complex.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_Ub_complex :- pv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_Ub_complex.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex, nv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+aux_0_10 :- nv_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+aux_0_10 :- nv_Cul2_ubiquitin_ligase_N8_Orf10_E2_Ub_substrate_complex.
+aux_0_10 :- npp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+aux_0_10 :- nv_Cul2_ubiquitin_ligase_Orf10_substrate_complex, nv_UBE2M_NEDD8_complex.
+nv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex, aux_0_10.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+aux_0_11 :- pv_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+aux_0_11 :- pv_UBE2M_NEDD8_complex.
+pv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex :- pv_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex, pv_Cul2_ubiquitin_ligase_N8_Orf10_E2_Ub_substrate_complex, ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex, aux_0_11.
+pv_Cul2_ubiquitin_ligase_N8_complex, nv_Cul2_ubiquitin_ligase_N8_complex.
+aux_0_12 :- npp_v_Cul2_ubiquitin_ligase_N8_complex.
+aux_0_12 :- nv_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+nv_Cul2_ubiquitin_ligase_N8_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_complex, aux_0_12.
+pv_Cul2_ubiquitin_ligase_N8_complex :- npn_v_Cul2_ubiquitin_ligase_N8_complex.
+pv_Cul2_ubiquitin_ligase_N8_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_complex, pv_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+pv_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex, nv_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+aux_0_13 :- nv_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+aux_0_13 :- npp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+nv_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex, aux_0_13.
+pv_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+pv_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex :- pv_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex, ppp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+pv_Cul2_ubiquitin_ligase_Orf10_complex, nv_Cul2_ubiquitin_ligase_Orf10_complex.
+aux_0_14 :- nv_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+aux_0_14 :- npp_v_Cul2_ubiquitin_ligase_Orf10_complex.
+aux_0_14 :- nv_CSN5_complex, nv_Cul2_ubiquitin_ligase_N8_Orf10_complex.
+aux_0_14 :- nv_Cul2_ubiquitin_ligase_complex, nv_Orf10.
+nv_Cul2_ubiquitin_ligase_Orf10_complex :- ppn_v_Cul2_ubiquitin_ligase_Orf10_complex, aux_0_14.
+pv_Cul2_ubiquitin_ligase_Orf10_complex :- npn_v_Cul2_ubiquitin_ligase_Orf10_complex.
+aux_0_15 :- pv_CSN5_complex.
+aux_0_15 :- pv_Cul2_ubiquitin_ligase_N8_Orf10_complex.
+aux_0_16 :- pv_Cul2_ubiquitin_ligase_complex.
+aux_0_16 :- pv_Orf10.
+pv_Cul2_ubiquitin_ligase_Orf10_complex :- pv_Cul2_ubiquitin_ligase_Orf10_substrate_complex, ppp_v_Cul2_ubiquitin_ligase_Orf10_complex, aux_0_15, aux_0_16.
+pv_Cul2_ubiquitin_ligase_Orf10_substrate_complex, nv_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+aux_0_17 :- npp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+aux_0_17 :- nv_Cul2_ubiquitin_ligase_Orf10_complex, nv_ubit_traget.
+nv_Cul2_ubiquitin_ligase_Orf10_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex, aux_0_17.
+pv_Cul2_ubiquitin_ligase_Orf10_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+aux_0_18 :- pv_Cul2_ubiquitin_ligase_Orf10_complex.
+aux_0_18 :- pv_ubit_traget.
+pv_Cul2_ubiquitin_ligase_Orf10_substrate_complex :- ppp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex, aux_0_18.
+pv_Cul2_ubiquitin_ligase_complex, nv_Cul2_ubiquitin_ligase_complex.
+aux_0_19 :- nv_Cul2_ubiquitin_ligase_Orf10_complex.
+aux_0_19 :- npp_v_Cul2_ubiquitin_ligase_complex.
+aux_0_19 :- nv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+aux_0_19 :- nv_CSN5_complex, nv_Cul2_ubiquitin_ligase_N8_complex.
+aux_0_19 :- nv_Zyg11B_EloBC_complex, nv_Rbx1_Cul2_complex.
+nv_Cul2_ubiquitin_ligase_complex :- ppn_v_Cul2_ubiquitin_ligase_complex, aux_0_19.
+pv_Cul2_ubiquitin_ligase_complex :- npn_v_Cul2_ubiquitin_ligase_complex.
+aux_0_20 :- pv_CSN5_complex.
+aux_0_20 :- pv_Cul2_ubiquitin_ligase_N8_complex.
+aux_0_21 :- pv_Zyg11B_EloBC_complex.
+aux_0_21 :- pv_Rbx1_Cul2_complex.
+pv_Cul2_ubiquitin_ligase_complex :- pv_Cul2_ubiquitin_ligase_Orf10_complex, ppp_v_Cul2_ubiquitin_ligase_complex, pv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell, aux_0_20, aux_0_21.
+pv_DUB, nv_DUB.
+aux_0_22 :- npp_v_DUB.
+aux_0_22 :- nv_DUB_rna.
+nv_DUB :- ppn_v_DUB, aux_0_22.
+pv_DUB :- npn_v_DUB.
+pv_DUB :- ppp_v_DUB, pv_DUB_rna.
+pv_DUB_rna, nv_DUB_rna.
+nv_DUB_rna :- nv_DUB_rna.
+pv_DUB_rna :- pv_DUB_rna.
+pv_E1, nv_E1.
+aux_0_23 :- npp_v_E1.
+aux_0_23 :- nv_E1_rna.
+aux_0_23 :- nv_E2, nv_E1_ubiquitinated.
+nv_E1 :- ppn_v_E1, aux_0_23.
+pv_E1 :- npn_v_E1.
+aux_0_24 :- pv_E2.
+aux_0_24 :- pv_E1_ubiquitinated.
+pv_E1 :- ppp_v_E1, pv_E1_rna, aux_0_24.
+pv_E1_rna, nv_E1_rna.
+nv_E1_rna :- nv_E1_rna.
+pv_E1_rna :- pv_E1_rna.
+pv_E1_ubiquitinated, nv_E1_ubiquitinated.
+aux_0_25 :- npp_v_E1_ubiquitinated.
+aux_0_25 :- nv_ATP_simple_molecule, nv_E1, nv_Ub_simple_molecule.
+nv_E1_ubiquitinated :- ppn_v_E1_ubiquitinated, aux_0_25.
+pv_E1_ubiquitinated :- npn_v_E1_ubiquitinated.
+pv_E1_ubiquitinated :- ppp_v_E1_ubiquitinated, aux_0_1.
+pv_E2, nv_E2.
+aux_0_26 :- nv_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+aux_0_26 :- nv_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+aux_0_26 :- nv_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+aux_0_26 :- npp_v_E2.
+aux_0_26 :- nv_E2_rna.
+nv_E2 :- ppn_v_E2, aux_0_26.
+pv_E2 :- npn_v_E2.
+pv_E2 :- pv_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex, pv_Cul2_ubiquitin_ligase_N8_E2_substrate_complex, pv_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex, ppp_v_E2, pv_E2_rna.
+pv_E2_rna, nv_E2_rna.
+nv_E2_rna :- nv_E2_rna.
+pv_E2_rna :- pv_E2_rna.
+pv_E2_ubiquitinated, nv_E2_ubiquitinated.
+nv_E2_ubiquitinated :- nv_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+nv_E2_ubiquitinated :- nv_Cul2_ubiquitin_ligase_N8_Orf10_E2_Ub_substrate_complex.
+nv_E2_ubiquitinated :- nv_E2, nv_E1_ubiquitinated.
+pv_E2_ubiquitinated :- pv_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex, pv_Cul2_ubiquitin_ligase_N8_Orf10_E2_Ub_substrate_complex, aux_0_24.
+pv_ELOB_ELOC_complex, nv_ELOB_ELOC_complex.
+aux_0_27 :- nv_Zyg11B_EloBC_complex.
+aux_0_27 :- nv_ELOB_ELOC_complex.
+aux_0_27 :- npp_v_ELOB_ELOC_complex.
+aux_0_27 :- nv_ELOB_rna.
+aux_0_27 :- nv_ELOC_rna.
+nv_ELOB_ELOC_complex :- ppn_v_ELOB_ELOC_complex, aux_0_27.
+pv_ELOB_ELOC_complex :- npn_v_ELOB_ELOC_complex.
+pv_ELOB_ELOC_complex :- pv_Zyg11B_EloBC_complex, pv_ELOB_ELOC_complex, ppp_v_ELOB_ELOC_complex, pv_ELOB_rna, pv_ELOC_rna.
+pv_ELOB_rna, nv_ELOB_rna.
+nv_ELOB_rna :- nv_ELOB_rna.
+pv_ELOB_rna :- pv_ELOB_rna.
+pv_ELOC_rna, nv_ELOC_rna.
+nv_ELOC_rna :- nv_ELOC_rna.
+pv_ELOC_rna :- pv_ELOC_rna.
+pv_NAE1_rna, nv_NAE1_rna.
+nv_NAE1_rna :- nv_NAE1_rna.
+pv_NAE1_rna :- pv_NAE1_rna.
+pv_NAE_Pevonedistat_complex, nv_NAE_Pevonedistat_complex.
+aux_0_28 :- npp_v_NAE_Pevonedistat_complex.
+aux_0_28 :- nv_NAE_complex, nv_Pevonedistat_drug.
+nv_NAE_Pevonedistat_complex :- ppn_v_NAE_Pevonedistat_complex, aux_0_28.
+pv_NAE_Pevonedistat_complex :- npn_v_NAE_Pevonedistat_complex.
+aux_0_29 :- pv_NAE_complex.
+aux_0_29 :- pv_Pevonedistat_drug.
+pv_NAE_Pevonedistat_complex :- ppp_v_NAE_Pevonedistat_complex, aux_0_29.
+pv_NAE_complex, nv_NAE_complex.
+aux_0_30 :- nv_NAE1_rna.
+aux_0_30 :- nv_NAE_Pevonedistat_complex.
+aux_0_30 :- nv_NAE_complex.
+aux_0_30 :- npp_v_NAE_complex.
+aux_0_30 :- nv_UBA3_rna.
+nv_NAE_complex :- ppn_v_NAE_complex, aux_0_30.
+pv_NAE_complex :- npn_v_NAE_complex.
+pv_NAE_complex :- pv_NAE1_rna, pv_NAE_Pevonedistat_complex, pv_NAE_complex, ppp_v_NAE_complex, pv_UBA3_rna.
+pv_NEDD8, nv_NEDD8.
+aux_0_31 :- npp_v_NEDD8.
+aux_0_31 :- nv_NEDD8_rna.
+nv_NEDD8 :- ppn_v_NEDD8, aux_0_31.
+pv_NEDD8 :- npn_v_NEDD8.
+pv_NEDD8 :- ppp_v_NEDD8, pv_NEDD8_rna.
+pv_NEDD8_rna, nv_NEDD8_rna.
+nv_NEDD8_rna :- nv_NEDD8_rna.
+pv_NEDD8_rna :- pv_NEDD8_rna.
+pv_Orf10, nv_Orf10.
+aux_0_32 :- nv_Cul2_ubiquitin_ligase_Orf10_complex.
+aux_0_32 :- npp_v_Orf10.
+aux_0_32 :- nv_Orf10____ss_sgmRNA_rna.
+nv_Orf10 :- ppn_v_Orf10, aux_0_32.
+pv_Orf10 :- npn_v_Orf10.
+pv_Orf10 :- pv_Cul2_ubiquitin_ligase_Orf10_complex, ppp_v_Orf10, pv_Orf10____ss_sgmRNA_rna.
+pv_Orf10____ss_sgmRNA_rna, nv_Orf10____ss_sgmRNA_rna.
+nv_Orf10____ss_sgmRNA_rna :- nv_Orf10____ss_sgmRNA_rna.
+pv_Orf10____ss_sgmRNA_rna :- pv_Orf10____ss_sgmRNA_rna.
+pv_PPi_simple_molecule, nv_PPi_simple_molecule.
+aux_0_33 :- npp_v_PPi_simple_molecule.
+aux_0_33 :- nv_ATP_simple_molecule, nv_E1, nv_Ub_simple_molecule.
+nv_PPi_simple_molecule :- ppn_v_PPi_simple_molecule, aux_0_33.
+pv_PPi_simple_molecule :- npn_v_PPi_simple_molecule.
+pv_PPi_simple_molecule :- ppp_v_PPi_simple_molecule, aux_0_1.
+pv_Pevonedistat_drug, nv_Pevonedistat_drug.
+aux_0_34 :- nv_NAE_Pevonedistat_complex.
+aux_0_34 :- npp_v_Pevonedistat_drug.
+nv_Pevonedistat_drug :- ppn_v_Pevonedistat_drug, aux_0_34.
+pv_Pevonedistat_drug :- npn_v_Pevonedistat_drug.
+pv_Pevonedistat_drug :- pv_NAE_Pevonedistat_complex, ppp_v_Pevonedistat_drug.
+pv_RBX1_rna, nv_RBX1_rna.
+nv_RBX1_rna :- nv_RBX1_rna.
+pv_RBX1_rna :- pv_RBX1_rna.
+pv_Rbx1_Cul2_complex, nv_Rbx1_Cul2_complex.
+aux_0_35 :- nv_CUL2_rna.
+aux_0_35 :- nv_Cul2_ubiquitin_ligase_complex.
+aux_0_35 :- nv_Rbx1_Cul2_complex.
+aux_0_35 :- nv_RBX1_rna.
+aux_0_35 :- npp_v_Rbx1_Cul2_complex.
+nv_Rbx1_Cul2_complex :- ppn_v_Rbx1_Cul2_complex, aux_0_35.
+pv_Rbx1_Cul2_complex :- npn_v_Rbx1_Cul2_complex.
+pv_Rbx1_Cul2_complex :- pv_CUL2_rna, pv_Cul2_ubiquitin_ligase_complex, pv_Rbx1_Cul2_complex, pv_RBX1_rna, ppp_v_Rbx1_Cul2_complex.
+pv_UBA3_rna, nv_UBA3_rna.
+nv_UBA3_rna :- nv_UBA3_rna.
+pv_UBA3_rna :- pv_UBA3_rna.
+pv_UBE2M_NEDD8_complex, nv_UBE2M_NEDD8_complex.
+aux_0_36 :- npp_v_UBE2M_NEDD8_complex.
+aux_0_36 :- nv_UBE2M_rna.
+aux_0_36 :- nv_NAE_complex, nv_NEDD8.
+aux_0_36 :- nv_UBE2M_NEDD8_complex, nv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+aux_0_36 :- nv_Cul2_ubiquitin_ligase_Orf10_substrate_complex, nv_UBE2M_NEDD8_complex.
+nv_UBE2M_NEDD8_complex :- ppn_v_UBE2M_NEDD8_complex, aux_0_36.
+pv_UBE2M_NEDD8_complex :- npn_v_UBE2M_NEDD8_complex.
+aux_0_37 :- pv_NAE_complex.
+aux_0_37 :- pv_NEDD8.
+aux_0_38 :- pv_UBE2M_NEDD8_complex.
+aux_0_38 :- pv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+pv_UBE2M_NEDD8_complex :- ppp_v_UBE2M_NEDD8_complex, pv_UBE2M_rna, aux_0_37, aux_0_38, aux_0_11.
+pv_UBE2M_rna, nv_UBE2M_rna.
+nv_UBE2M_rna :- nv_UBE2M_rna.
+pv_UBE2M_rna :- pv_UBE2M_rna.
+pv_Ub_simple_molecule, nv_Ub_simple_molecule.
+nv_Ub_simple_molecule :- nv_Ub_simple_molecule.
+pv_Ub_simple_molecule :- pv_Ub_simple_molecule.
+pv_ZYG11B, nv_ZYG11B.
+aux_0_39 :- nv_Zyg11B_EloBC_complex.
+aux_0_39 :- npp_v_ZYG11B.
+aux_0_39 :- nv_ZYG11B_rna.
+nv_ZYG11B :- ppn_v_ZYG11B, aux_0_39.
+pv_ZYG11B :- npn_v_ZYG11B.
+pv_ZYG11B :- pv_Zyg11B_EloBC_complex, ppp_v_ZYG11B, pv_ZYG11B_rna.
+pv_ZYG11B_rna, nv_ZYG11B_rna.
+nv_ZYG11B_rna :- nv_ZYG11B_rna.
+pv_ZYG11B_rna :- pv_ZYG11B_rna.
+pv_Zyg11B_EloBC_complex, nv_Zyg11B_EloBC_complex.
+aux_0_40 :- nv_Cul2_ubiquitin_ligase_complex.
+aux_0_40 :- npp_v_Zyg11B_EloBC_complex.
+aux_0_40 :- nv_ELOB_ELOC_complex, nv_ZYG11B.
+nv_Zyg11B_EloBC_complex :- ppn_v_Zyg11B_EloBC_complex, aux_0_40.
+pv_Zyg11B_EloBC_complex :- npn_v_Zyg11B_EloBC_complex.
+aux_0_41 :- pv_ELOB_ELOC_complex.
+aux_0_41 :- pv_ZYG11B.
+pv_Zyg11B_EloBC_complex :- pv_Cul2_ubiquitin_ligase_complex, ppp_v_Zyg11B_EloBC_complex, aux_0_41.
+pv_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell, nv_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+aux_0_42 :- nv_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+aux_0_42 :- nv_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+aux_0_42 :- npp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+aux_0_42 :- nv_UBE2M_NEDD8_complex, nv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+nv_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell :- ppn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell, aux_0_42.
+pv_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell :- npn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+pv_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell :- pv_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex, pv_Cul2_ubiquitin_ligase_N8_E2_substrate_complex, ppp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell, aux_0_38.
+pv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell, nv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+aux_0_43 :- npp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+aux_0_43 :- nv_Cul2_ubiquitin_ligase_complex, nv_ubit_traget.
+nv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell :- ppn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell, aux_0_43.
+pv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell :- npn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+aux_0_44 :- pv_Cul2_ubiquitin_ligase_complex.
+aux_0_44 :- pv_ubit_traget.
+pv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell :- ppp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell, aux_0_44.
+pv_ubit_traget, nv_ubit_traget.
+aux_0_45 :- nv_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+aux_0_45 :- nv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+aux_0_45 :- npp_v_ubit_traget.
+aux_0_45 :- nv_DUB, nv_ubit_traget_ubiquitinated.
+nv_ubit_traget :- ppn_v_ubit_traget, aux_0_45.
+pv_ubit_traget :- npn_v_ubit_traget.
+aux_0_46 :- pv_DUB.
+aux_0_46 :- pv_ubit_traget_ubiquitinated.
+pv_ubit_traget :- pv_Cul2_ubiquitin_ligase_Orf10_substrate_complex, pv_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell, ppp_v_ubit_traget, aux_0_46.
+pv_ubit_traget_ubiquitinated, nv_ubit_traget_ubiquitinated.
+aux_0_47 :- nv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_Ub_complex.
+aux_0_47 :- nv_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+aux_0_47 :- npp_v_ubit_traget_ubiquitinated.
+nv_ubit_traget_ubiquitinated :- ppn_v_ubit_traget_ubiquitinated, aux_0_47.
+pv_ubit_traget_ubiquitinated :- npn_v_ubit_traget_ubiquitinated.
+pv_ubit_traget_ubiquitinated :- pv_Cul2_ubiquitin_ligase_N8_Orf10_substrate_Ub_complex, pv_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex, ppp_v_ubit_traget_ubiquitinated.
+ppn_v_AMP_simple_molecule, npn_v_AMP_simple_molecule.
+npn_v_AMP_simple_molecule :- npn_v_AMP_simple_molecule.
+ppn_v_AMP_simple_molecule :- ppn_v_AMP_simple_molecule.
+ppn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex, npn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+npn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex, npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex, npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex, npn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+npn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex, npn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+npn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex, npn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+npn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_complex, npn_v_Cul2_ubiquitin_ligase_N8_complex.
+npn_v_Cul2_ubiquitin_ligase_N8_complex :- npn_v_Cul2_ubiquitin_ligase_N8_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex, npn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+npn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+ppn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+ppn_v_Cul2_ubiquitin_ligase_Orf10_complex, npn_v_Cul2_ubiquitin_ligase_Orf10_complex.
+npn_v_Cul2_ubiquitin_ligase_Orf10_complex :- npn_v_Cul2_ubiquitin_ligase_Orf10_complex.
+ppn_v_Cul2_ubiquitin_ligase_Orf10_complex :- ppn_v_Cul2_ubiquitin_ligase_Orf10_complex.
+ppn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex, npn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+npn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+ppn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+ppn_v_Cul2_ubiquitin_ligase_complex, npn_v_Cul2_ubiquitin_ligase_complex.
+npn_v_Cul2_ubiquitin_ligase_complex :- npn_v_Cul2_ubiquitin_ligase_complex.
+ppn_v_Cul2_ubiquitin_ligase_complex :- ppn_v_Cul2_ubiquitin_ligase_complex.
+ppn_v_DUB, npn_v_DUB.
+npn_v_DUB :- npn_v_DUB.
+ppn_v_DUB :- ppn_v_DUB.
+ppn_v_E1, npn_v_E1.
+npn_v_E1 :- npn_v_E1.
+ppn_v_E1 :- ppn_v_E1.
+ppn_v_E1_ubiquitinated, npn_v_E1_ubiquitinated.
+npn_v_E1_ubiquitinated :- npn_v_E1_ubiquitinated.
+ppn_v_E1_ubiquitinated :- ppn_v_E1_ubiquitinated.
+ppn_v_E2, npn_v_E2.
+npn_v_E2 :- npn_v_E2.
+ppn_v_E2 :- ppn_v_E2.
+ppn_v_ELOB_ELOC_complex, npn_v_ELOB_ELOC_complex.
+npn_v_ELOB_ELOC_complex :- npn_v_ELOB_ELOC_complex.
+ppn_v_ELOB_ELOC_complex :- ppn_v_ELOB_ELOC_complex.
+ppn_v_NAE_Pevonedistat_complex, npn_v_NAE_Pevonedistat_complex.
+npn_v_NAE_Pevonedistat_complex :- npn_v_NAE_Pevonedistat_complex.
+ppn_v_NAE_Pevonedistat_complex :- ppn_v_NAE_Pevonedistat_complex.
+ppn_v_NAE_complex, npn_v_NAE_complex.
+npn_v_NAE_complex :- npn_v_NAE_complex.
+ppn_v_NAE_complex :- ppn_v_NAE_complex.
+ppn_v_NEDD8, npn_v_NEDD8.
+npn_v_NEDD8 :- npn_v_NEDD8.
+ppn_v_NEDD8 :- ppn_v_NEDD8.
+ppn_v_Orf10, npn_v_Orf10.
+npn_v_Orf10 :- npn_v_Orf10.
+ppn_v_Orf10 :- ppn_v_Orf10.
+ppn_v_PPi_simple_molecule, npn_v_PPi_simple_molecule.
+npn_v_PPi_simple_molecule :- npn_v_PPi_simple_molecule.
+ppn_v_PPi_simple_molecule :- ppn_v_PPi_simple_molecule.
+ppn_v_Pevonedistat_drug, npn_v_Pevonedistat_drug.
+npn_v_Pevonedistat_drug :- npn_v_Pevonedistat_drug.
+ppn_v_Pevonedistat_drug :- ppn_v_Pevonedistat_drug.
+ppn_v_Rbx1_Cul2_complex, npn_v_Rbx1_Cul2_complex.
+npn_v_Rbx1_Cul2_complex :- npn_v_Rbx1_Cul2_complex.
+ppn_v_Rbx1_Cul2_complex :- ppn_v_Rbx1_Cul2_complex.
+ppn_v_UBE2M_NEDD8_complex, npn_v_UBE2M_NEDD8_complex.
+npn_v_UBE2M_NEDD8_complex :- npn_v_UBE2M_NEDD8_complex.
+ppn_v_UBE2M_NEDD8_complex :- ppn_v_UBE2M_NEDD8_complex.
+ppn_v_ZYG11B, npn_v_ZYG11B.
+npn_v_ZYG11B :- npn_v_ZYG11B.
+ppn_v_ZYG11B :- ppn_v_ZYG11B.
+ppn_v_Zyg11B_EloBC_complex, npn_v_Zyg11B_EloBC_complex.
+npn_v_Zyg11B_EloBC_complex :- npn_v_Zyg11B_EloBC_complex.
+ppn_v_Zyg11B_EloBC_complex :- ppn_v_Zyg11B_EloBC_complex.
+ppn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell, npn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+npn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell :- npn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell :- ppn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell, npn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+npn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell :- npn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell :- ppn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppn_v_ubit_traget, npn_v_ubit_traget.
+npn_v_ubit_traget :- npn_v_ubit_traget.
+ppn_v_ubit_traget :- ppn_v_ubit_traget.
+ppn_v_ubit_traget_ubiquitinated, npn_v_ubit_traget_ubiquitinated.
+npn_v_ubit_traget_ubiquitinated :- npn_v_ubit_traget_ubiquitinated.
+ppn_v_ubit_traget_ubiquitinated :- ppn_v_ubit_traget_ubiquitinated.
+ppp_v_AMP_simple_molecule, npp_v_AMP_simple_molecule.
+npp_v_AMP_simple_molecule :- ppn_v_AMP_simple_molecule, npp_v_AMP_simple_molecule.
+ppp_v_AMP_simple_molecule :- npn_v_AMP_simple_molecule.
+ppp_v_AMP_simple_molecule :- ppp_v_AMP_simple_molecule.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex, npp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+npp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex, npp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex, npp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+npp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex, npp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex, npp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+npp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex, npp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex, npp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+npp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex, npp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex, npp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+npp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex, npp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex, npp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+npp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex, npp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_complex, npp_v_Cul2_ubiquitin_ligase_N8_complex.
+npp_v_Cul2_ubiquitin_ligase_N8_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_complex, npp_v_Cul2_ubiquitin_ligase_N8_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_complex :- npn_v_Cul2_ubiquitin_ligase_N8_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex, npp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+npp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex :- ppn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex, npp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex :- ppp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_Orf10_complex, npp_v_Cul2_ubiquitin_ligase_Orf10_complex.
+npp_v_Cul2_ubiquitin_ligase_Orf10_complex :- ppn_v_Cul2_ubiquitin_ligase_Orf10_complex, npp_v_Cul2_ubiquitin_ligase_Orf10_complex.
+ppp_v_Cul2_ubiquitin_ligase_Orf10_complex :- npn_v_Cul2_ubiquitin_ligase_Orf10_complex.
+ppp_v_Cul2_ubiquitin_ligase_Orf10_complex :- ppp_v_Cul2_ubiquitin_ligase_Orf10_complex.
+ppp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex, npp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+npp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex :- ppn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex, npp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex :- ppp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_complex, npp_v_Cul2_ubiquitin_ligase_complex.
+npp_v_Cul2_ubiquitin_ligase_complex :- ppn_v_Cul2_ubiquitin_ligase_complex, npp_v_Cul2_ubiquitin_ligase_complex.
+ppp_v_Cul2_ubiquitin_ligase_complex :- npn_v_Cul2_ubiquitin_ligase_complex.
+ppp_v_Cul2_ubiquitin_ligase_complex :- ppp_v_Cul2_ubiquitin_ligase_complex.
+ppp_v_DUB, npp_v_DUB.
+npp_v_DUB :- ppn_v_DUB, npp_v_DUB.
+ppp_v_DUB :- npn_v_DUB.
+ppp_v_DUB :- ppp_v_DUB.
+ppp_v_E1, npp_v_E1.
+npp_v_E1 :- ppn_v_E1, npp_v_E1.
+ppp_v_E1 :- npn_v_E1.
+ppp_v_E1 :- ppp_v_E1.
+ppp_v_E1_ubiquitinated, npp_v_E1_ubiquitinated.
+npp_v_E1_ubiquitinated :- ppn_v_E1_ubiquitinated, npp_v_E1_ubiquitinated.
+ppp_v_E1_ubiquitinated :- npn_v_E1_ubiquitinated.
+ppp_v_E1_ubiquitinated :- ppp_v_E1_ubiquitinated.
+ppp_v_E2, npp_v_E2.
+npp_v_E2 :- ppn_v_E2, npp_v_E2.
+ppp_v_E2 :- npn_v_E2.
+ppp_v_E2 :- ppp_v_E2.
+ppp_v_ELOB_ELOC_complex, npp_v_ELOB_ELOC_complex.
+npp_v_ELOB_ELOC_complex :- ppn_v_ELOB_ELOC_complex, npp_v_ELOB_ELOC_complex.
+ppp_v_ELOB_ELOC_complex :- npn_v_ELOB_ELOC_complex.
+ppp_v_ELOB_ELOC_complex :- ppp_v_ELOB_ELOC_complex.
+ppp_v_NAE_Pevonedistat_complex, npp_v_NAE_Pevonedistat_complex.
+npp_v_NAE_Pevonedistat_complex :- ppn_v_NAE_Pevonedistat_complex, npp_v_NAE_Pevonedistat_complex.
+ppp_v_NAE_Pevonedistat_complex :- npn_v_NAE_Pevonedistat_complex.
+ppp_v_NAE_Pevonedistat_complex :- ppp_v_NAE_Pevonedistat_complex.
+ppp_v_NAE_complex, npp_v_NAE_complex.
+npp_v_NAE_complex :- ppn_v_NAE_complex, npp_v_NAE_complex.
+ppp_v_NAE_complex :- npn_v_NAE_complex.
+ppp_v_NAE_complex :- ppp_v_NAE_complex.
+ppp_v_NEDD8, npp_v_NEDD8.
+npp_v_NEDD8 :- ppn_v_NEDD8, npp_v_NEDD8.
+ppp_v_NEDD8 :- npn_v_NEDD8.
+ppp_v_NEDD8 :- ppp_v_NEDD8.
+ppp_v_Orf10, npp_v_Orf10.
+npp_v_Orf10 :- ppn_v_Orf10, npp_v_Orf10.
+ppp_v_Orf10 :- npn_v_Orf10.
+ppp_v_Orf10 :- ppp_v_Orf10.
+ppp_v_PPi_simple_molecule, npp_v_PPi_simple_molecule.
+npp_v_PPi_simple_molecule :- ppn_v_PPi_simple_molecule, npp_v_PPi_simple_molecule.
+ppp_v_PPi_simple_molecule :- npn_v_PPi_simple_molecule.
+ppp_v_PPi_simple_molecule :- ppp_v_PPi_simple_molecule.
+ppp_v_Pevonedistat_drug, npp_v_Pevonedistat_drug.
+npp_v_Pevonedistat_drug :- ppn_v_Pevonedistat_drug, npp_v_Pevonedistat_drug.
+ppp_v_Pevonedistat_drug :- npn_v_Pevonedistat_drug.
+ppp_v_Pevonedistat_drug :- ppp_v_Pevonedistat_drug.
+ppp_v_Rbx1_Cul2_complex, npp_v_Rbx1_Cul2_complex.
+npp_v_Rbx1_Cul2_complex :- ppn_v_Rbx1_Cul2_complex, npp_v_Rbx1_Cul2_complex.
+ppp_v_Rbx1_Cul2_complex :- npn_v_Rbx1_Cul2_complex.
+ppp_v_Rbx1_Cul2_complex :- ppp_v_Rbx1_Cul2_complex.
+ppp_v_UBE2M_NEDD8_complex, npp_v_UBE2M_NEDD8_complex.
+npp_v_UBE2M_NEDD8_complex :- ppn_v_UBE2M_NEDD8_complex, npp_v_UBE2M_NEDD8_complex.
+ppp_v_UBE2M_NEDD8_complex :- npn_v_UBE2M_NEDD8_complex.
+ppp_v_UBE2M_NEDD8_complex :- ppp_v_UBE2M_NEDD8_complex.
+ppp_v_ZYG11B, npp_v_ZYG11B.
+npp_v_ZYG11B :- ppn_v_ZYG11B, npp_v_ZYG11B.
+ppp_v_ZYG11B :- npn_v_ZYG11B.
+ppp_v_ZYG11B :- ppp_v_ZYG11B.
+ppp_v_Zyg11B_EloBC_complex, npp_v_Zyg11B_EloBC_complex.
+npp_v_Zyg11B_EloBC_complex :- ppn_v_Zyg11B_EloBC_complex, npp_v_Zyg11B_EloBC_complex.
+ppp_v_Zyg11B_EloBC_complex :- npn_v_Zyg11B_EloBC_complex.
+ppp_v_Zyg11B_EloBC_complex :- ppp_v_Zyg11B_EloBC_complex.
+ppp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell, npp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+npp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell :- ppn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell, npp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell :- npn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell :- ppp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell, npp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+npp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell :- ppn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell, npp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell :- npn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell :- ppp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppp_v_ubit_traget, npp_v_ubit_traget.
+npp_v_ubit_traget :- ppn_v_ubit_traget, npp_v_ubit_traget.
+ppp_v_ubit_traget :- npn_v_ubit_traget.
+ppp_v_ubit_traget :- ppp_v_ubit_traget.
+ppp_v_ubit_traget_ubiquitinated, npp_v_ubit_traget_ubiquitinated.
+npp_v_ubit_traget_ubiquitinated :- ppn_v_ubit_traget_ubiquitinated, npp_v_ubit_traget_ubiquitinated.
+ppp_v_ubit_traget_ubiquitinated :- npn_v_ubit_traget_ubiquitinated.
+ppp_v_ubit_traget_ubiquitinated :- ppp_v_ubit_traget_ubiquitinated.
+ppp_v_AMP_simple_molecule :- npn_v_AMP_simple_molecule.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_complex :- npn_v_Cul2_ubiquitin_ligase_N8_complex.
+ppp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex :- npn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+ppp_v_Cul2_ubiquitin_ligase_Orf10_complex :- npn_v_Cul2_ubiquitin_ligase_Orf10_complex.
+ppp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex :- npn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+ppp_v_Cul2_ubiquitin_ligase_complex :- npn_v_Cul2_ubiquitin_ligase_complex.
+ppp_v_DUB :- npn_v_DUB.
+ppp_v_E1 :- npn_v_E1.
+ppp_v_E1_ubiquitinated :- npn_v_E1_ubiquitinated.
+ppp_v_E2 :- npn_v_E2.
+ppp_v_ELOB_ELOC_complex :- npn_v_ELOB_ELOC_complex.
+ppp_v_NAE_Pevonedistat_complex :- npn_v_NAE_Pevonedistat_complex.
+ppp_v_NAE_complex :- npn_v_NAE_complex.
+ppp_v_NEDD8 :- npn_v_NEDD8.
+ppp_v_Orf10 :- npn_v_Orf10.
+ppp_v_PPi_simple_molecule :- npn_v_PPi_simple_molecule.
+ppp_v_Pevonedistat_drug :- npn_v_Pevonedistat_drug.
+ppp_v_Rbx1_Cul2_complex :- npn_v_Rbx1_Cul2_complex.
+ppp_v_UBE2M_NEDD8_complex :- npn_v_UBE2M_NEDD8_complex.
+ppp_v_ZYG11B :- npn_v_ZYG11B.
+ppp_v_Zyg11B_EloBC_complex :- npn_v_Zyg11B_EloBC_complex.
+ppp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell :- npn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell :- npn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+ppp_v_ubit_traget :- npn_v_ubit_traget.
+ppp_v_ubit_traget_ubiquitinated :- npn_v_ubit_traget_ubiquitinated.
+#project ppn_v_AMP_simple_molecule.
+#project npn_v_AMP_simple_molecule.
+#project ppn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+#project npn_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+#project ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+#project npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+#project ppn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+#project npn_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+#project ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+#project npn_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+#project ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+#project npn_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+#project ppn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+#project npn_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+#project ppn_v_Cul2_ubiquitin_ligase_N8_complex.
+#project npn_v_Cul2_ubiquitin_ligase_N8_complex.
+#project ppn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+#project npn_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+#project ppn_v_Cul2_ubiquitin_ligase_Orf10_complex.
+#project npn_v_Cul2_ubiquitin_ligase_Orf10_complex.
+#project ppn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+#project npn_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+#project ppn_v_Cul2_ubiquitin_ligase_complex.
+#project npn_v_Cul2_ubiquitin_ligase_complex.
+#project ppn_v_DUB.
+#project npn_v_DUB.
+#project ppn_v_E1.
+#project npn_v_E1.
+#project ppn_v_E1_ubiquitinated.
+#project npn_v_E1_ubiquitinated.
+#project ppn_v_E2.
+#project npn_v_E2.
+#project ppn_v_ELOB_ELOC_complex.
+#project npn_v_ELOB_ELOC_complex.
+#project ppn_v_NAE_Pevonedistat_complex.
+#project npn_v_NAE_Pevonedistat_complex.
+#project ppn_v_NAE_complex.
+#project npn_v_NAE_complex.
+#project ppn_v_NEDD8.
+#project npn_v_NEDD8.
+#project ppn_v_Orf10.
+#project npn_v_Orf10.
+#project ppn_v_PPi_simple_molecule.
+#project npn_v_PPi_simple_molecule.
+#project ppn_v_Pevonedistat_drug.
+#project npn_v_Pevonedistat_drug.
+#project ppn_v_Rbx1_Cul2_complex.
+#project npn_v_Rbx1_Cul2_complex.
+#project ppn_v_UBE2M_NEDD8_complex.
+#project npn_v_UBE2M_NEDD8_complex.
+#project ppn_v_ZYG11B.
+#project npn_v_ZYG11B.
+#project ppn_v_Zyg11B_EloBC_complex.
+#project npn_v_Zyg11B_EloBC_complex.
+#project ppn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+#project npn_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+#project ppn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+#project npn_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+#project ppn_v_ubit_traget.
+#project npn_v_ubit_traget.
+#project ppn_v_ubit_traget_ubiquitinated.
+#project npn_v_ubit_traget_ubiquitinated.
+#project ppp_v_AMP_simple_molecule.
+#project npp_v_AMP_simple_molecule.
+#project ppp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+#project npp_v_Cul2_ubiquitin_ligase_N8_E2_Ub_substrate_complex.
+#project ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+#project npp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_Ub_complex.
+#project ppp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+#project npp_v_Cul2_ubiquitin_ligase_N8_E2_substrate_complex.
+#project ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+#project npp_v_Cul2_ubiquitin_ligase_N8_Orf10_0E2_substrate_complex.
+#project ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+#project npp_v_Cul2_ubiquitin_ligase_N8_Orf10_E2_substrate_Ub_complex.
+#project ppp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+#project npp_v_Cul2_ubiquitin_ligase_N8_Orf10_substrate_complex.
+#project ppp_v_Cul2_ubiquitin_ligase_N8_complex.
+#project npp_v_Cul2_ubiquitin_ligase_N8_complex.
+#project ppp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+#project npp_v_Cul2_ubiquitin_ligase_N8_substrate_Ub_complex.
+#project ppp_v_Cul2_ubiquitin_ligase_Orf10_complex.
+#project npp_v_Cul2_ubiquitin_ligase_Orf10_complex.
+#project ppp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+#project npp_v_Cul2_ubiquitin_ligase_Orf10_substrate_complex.
+#project ppp_v_Cul2_ubiquitin_ligase_complex.
+#project npp_v_Cul2_ubiquitin_ligase_complex.
+#project ppp_v_DUB.
+#project npp_v_DUB.
+#project ppp_v_E1.
+#project npp_v_E1.
+#project ppp_v_E1_ubiquitinated.
+#project npp_v_E1_ubiquitinated.
+#project ppp_v_E2.
+#project npp_v_E2.
+#project ppp_v_ELOB_ELOC_complex.
+#project npp_v_ELOB_ELOC_complex.
+#project ppp_v_NAE_Pevonedistat_complex.
+#project npp_v_NAE_Pevonedistat_complex.
+#project ppp_v_NAE_complex.
+#project npp_v_NAE_complex.
+#project ppp_v_NEDD8.
+#project npp_v_NEDD8.
+#project ppp_v_Orf10.
+#project npp_v_Orf10.
+#project ppp_v_PPi_simple_molecule.
+#project npp_v_PPi_simple_molecule.
+#project ppp_v_Pevonedistat_drug.
+#project npp_v_Pevonedistat_drug.
+#project ppp_v_Rbx1_Cul2_complex.
+#project npp_v_Rbx1_Cul2_complex.
+#project ppp_v_UBE2M_NEDD8_complex.
+#project npp_v_UBE2M_NEDD8_complex.
+#project ppp_v_ZYG11B.
+#project npp_v_ZYG11B.
+#project ppp_v_Zyg11B_EloBC_complex.
+#project npp_v_Zyg11B_EloBC_complex.
+#project ppp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+#project npp_v_csa15_Cul2_ubiquitin_ligase_substrate_complex_cell.
+#project ppp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+#project npp_v_csa4_Cul2_ubiquitin_ligase_substrate_complex_cell.
+#project ppp_v_ubit_traget.
+#project npp_v_ubit_traget.
+#project ppp_v_ubit_traget_ubiquitinated.
+#project npp_v_ubit_traget_ubiquitinated.

@@ -1,0 +1,1 @@
+nv_5_phospho__alpha__D_ribose_1_diphosphate_simple_molecule

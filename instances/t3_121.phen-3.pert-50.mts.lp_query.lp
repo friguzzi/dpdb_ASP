@@ -1,0 +1,1 @@
+nv_Thioredoxin_TXNIP_complex
