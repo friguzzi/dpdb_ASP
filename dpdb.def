@@ -1,0 +1,80 @@
+Bootstrap: docker
+From: ubuntu:24.04
+
+%files
+    # COPY dpdb_ASP /dpdb
+    dpdb_ASP /dpdb
+
+%environment
+    # ENV DEBIAN_FRONTEND=noninteractive
+    export DEBIAN_FRONTEND=noninteractive
+    # ENV PATH="/opt/miniconda/envs/dpdb_env/bin:/opt/miniconda/bin:$PATH"
+    export PATH="/opt/miniconda/envs/dpdb_env/bin:/opt/miniconda/bin:$PATH"
+
+%post
+    export DEBIAN_FRONTEND=noninteractive
+    echo 'APT::Sandbox::User "root";' > /etc/apt/apt.conf.d/01no-apt-sandbox
+    groupadd -r crontab || true
+    groupadd -r systemd-network || true
+    useradd -r -g systemd-network -d / -s /usr/sbin/nologin systemd-network || true
+    groupadd -r systemd-journal || true
+    dpkg --configure -a
+    apt-get install -f
+    # 1. Install PostgreSQL, tools, and build dependencies
+    apt-get update && apt-get install -y \
+        postgresql \
+        postgresql-contrib \
+        libpq-dev \
+        vim \
+        wget \
+        ca-certificates \
+        sudo \
+        gcc \
+        && rm -rf /var/lib/apt/lists/*
+
+    # 2. Install Miniconda
+    wget -q https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O /tmp/miniconda.sh
+    bash /tmp/miniconda.sh -b -p /opt/miniconda
+    rm /tmp/miniconda.sh
+
+    # Temporary PATH update for post-build commands
+    export PATH="/opt/miniconda/bin:$PATH"
+
+    conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main
+    conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r 
+
+    # 3. Create Conda environment and install dependencies
+    conda create -y -n dpdb_env python=3.11
+
+    # Set PATH to dpdb_env bin to run pip install inside the environment
+    export PATH="/opt/miniconda/envs/dpdb_env/bin:$PATH"
+    pip install future-fstrings clingo psycopg2 networkx
+
+    # 4. Configure PostgreSQL dynamically for local connections & Apptainer socket support
+    PG_VER=$(ls /etc/postgresql/)
+    echo "host all all 127.0.0.1/32 trust" >> /etc/postgresql/${PG_VER}/main/pg_hba.conf
+    echo "host all all ::1/128 trust" >> /etc/postgresql/${PG_VER}/main/pg_hba.conf
+    echo "unix_socket_directories = '/tmp'" >> /etc/postgresql/${PG_VER}/main/postgresql.conf
+    # 4. Start PostgreSQL temporarily using pg_ctlcluster or pg_ctl
+    # We use -o "-c ssl=off" to prevent SSL key permission errors
+    su - postgres -c "/usr/lib/postgresql/16/bin/pg_ctl start \
+        -D /var/lib/postgresql/16/main \
+        -l /tmp/postgres_build.log \
+        -o '-c config_file=/etc/postgresql/16/main/postgresql.conf -c ssl=off'"
+
+    # 5. Set the password for the postgres user
+    su - postgres -c "psql -c \"ALTER USER postgres WITH PASSWORD 'postgres';\""
+    su - postgres -c "psql -c \"CREATE USER logicsem WITH PASSWORD 'logicsem' SUPERUSER; \""
+    su - postgres -c "psql -tc \"CREATE DATABASE logicsem OWNER logicsem;\""
+    # 6. Stop PostgreSQL cleanly so the container build can finish
+    su - postgres -c "/usr/lib/postgresql/16/bin/pg_ctl stop -D /var/lib/postgresql/16/main"
+
+
+    # 5. Setup workspace permissions
+    chmod +x /dpdb/entrypoint.sh
+
+%runscript
+    # WORKDIR /dpdb + ENTRYPOINT ["/dpdb/entrypoint.sh"]
+    cd /dpdb
+    export PATH="/dpdb:$PATH"
+    exec /dpdb/entrypoint.sh "$@"
