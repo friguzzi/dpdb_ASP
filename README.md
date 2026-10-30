@@ -68,4 +68,11 @@ Some of the obtained results are presented in the table below:
 | B-3-stb_767_429 | 26.431 | 927 | TLE |
 | A-1-grd_2065_1_8  | 334.024 | 2928 | TLE |
 
+## Apptainer
 
+```
+$ sudo add-apt-repository -y ppa:apptainer/ppa
+$ sudo apt update
+$ sudo apt install -y apptainer
+$ apptainer build dpdb9.sif dpdb.def
+````
