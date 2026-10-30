@@ -9,8 +9,7 @@ From: ubuntu:24.04
     # ENV DEBIAN_FRONTEND=noninteractive
     export DEBIAN_FRONTEND=noninteractive
     # ENV PATH="/opt/miniconda/envs/dpdb_env/bin:/opt/miniconda/bin:$PATH"
-    export PATH="/opt/miniconda/envs/dpdb_env/bin:/opt/miniconda/bin:$PATH"
-
+    export PATH="/opt/miniconda/envs/dpdb_env/bin:/opt/miniconda/bin:/usr/lib/postgresql/16/bin:$PATH"
 %post
     export DEBIAN_FRONTEND=noninteractive
     echo 'APT::Sandbox::User "root";' > /etc/apt/apt.conf.d/01no-apt-sandbox
@@ -45,9 +44,10 @@ From: ubuntu:24.04
 
     # 3. Create Conda environment and install dependencies
     conda create -y -n dpdb_env python=3.11
-
+    PG_VER=$(ls /etc/postgresql/)
     # Set PATH to dpdb_env bin to run pip install inside the environment
-    export PATH="/opt/miniconda/envs/dpdb_env/bin:$PATH"
+    export PATH="/opt/miniconda/envs/dpdb_env/bin:/opt/miniconda/bin:/usr/lib/postgresql/${PG_VER}/bin:$PATH"
+
     pip install future-fstrings clingo psycopg2 networkx
 
     # 4. Configure PostgreSQL dynamically for local connections & Apptainer socket support
@@ -55,26 +55,5 @@ From: ubuntu:24.04
     echo "host all all 127.0.0.1/32 trust" >> /etc/postgresql/${PG_VER}/main/pg_hba.conf
     echo "host all all ::1/128 trust" >> /etc/postgresql/${PG_VER}/main/pg_hba.conf
     echo "unix_socket_directories = '/tmp'" >> /etc/postgresql/${PG_VER}/main/postgresql.conf
-    # 4. Start PostgreSQL temporarily using pg_ctlcluster or pg_ctl
-    # We use -o "-c ssl=off" to prevent SSL key permission errors
-    su - postgres -c "/usr/lib/postgresql/16/bin/pg_ctl start \
-        -D /var/lib/postgresql/16/main \
-        -l /tmp/postgres_build.log \
-        -o '-c config_file=/etc/postgresql/16/main/postgresql.conf -c ssl=off'"
-
-    # 5. Set the password for the postgres user
-    su - postgres -c "psql -c \"ALTER USER postgres WITH PASSWORD 'postgres';\""
-    su - postgres -c "psql -c \"CREATE USER logicsem WITH PASSWORD 'logicsem' SUPERUSER; \""
-    su - postgres -c "psql -tc \"CREATE DATABASE logicsem OWNER logicsem;\""
-    # 6. Stop PostgreSQL cleanly so the container build can finish
-    su - postgres -c "/usr/lib/postgresql/16/bin/pg_ctl stop -D /var/lib/postgresql/16/main"
 
 
-    # 5. Setup workspace permissions
-    chmod +x /dpdb/entrypoint.sh
-
-%runscript
-    # WORKDIR /dpdb + ENTRYPOINT ["/dpdb/entrypoint.sh"]
-    cd /dpdb
-    export PATH="/dpdb:$PATH"
-    exec /dpdb/entrypoint.sh "$@"
